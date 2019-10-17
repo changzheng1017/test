@@ -1,13 +1,16 @@
 {"category":[
+
     {"appurl":"com.coloringbynumber.princess.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterPrincess","name":"Princess Glitter"},
-    {"appurl":"com.coloringbynumber.mermaid.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterMermaid","name":"Mermaid Glitter"},
+    {"appurl":"com.coloringbynumber.halloween.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterHalloween","name":"Halloween Glitter"},
+
+
     {"appurl":"","count":"22","image":"draw1","name":"Chibi Characters1"},
     {"appurl":"","count":"18","image":"draw2","name":"Chibi Characters2"},
     {"appurl":"","count":"14","image":"draw3","name":"Chibi Characters3"},
     {"appurl":"","count":"18","image":"draw4","name":"Chibi Characters4"},
 
     {"appurl":"com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterDress","name":"Dress Glitter"},
-    {"appurl":"com.coloringbynumber.car.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterCars","name":"Cars Glitter"},
+    {"appurl":"com.coloringbynumber.mermaid.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterMermaid","name":"Mermaid Glitter"},
 
 
 
@@ -16,6 +19,11 @@
     {"appurl":"","count":"17","image":"draw6","name":"Chibi Characters6"},
     {"appurl":"","count":"14","image":"draw7","name":"Chibi Characters7"},
     {"appurl":"","count":"14","image":"draw8","name":"Chibi Characters8"},
+
+
+    {"appurl":"com.coloringbynumber.anime.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterAnime","name":"Anime Glitter"},
+
+    {"appurl":"com.coloringbynumber.car.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterCars","name":"Cars Glitter"},
 
  
 

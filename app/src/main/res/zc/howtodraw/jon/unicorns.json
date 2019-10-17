@@ -1,5 +1,7 @@
-{"category":[{"appurl":"com.coloringbynumber.princess.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterPrincess","name":"Princess Glitter"},
-    {"appurl":"com.coloringbynumber.mermaid.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterMermaid","name":"Mermaid Glitter"},
+{"category":[
+
+    {"appurl":"com.coloringbynumber.princess.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterPrincess","name":"Princess Glitter"},
+    {"appurl":"com.coloringbynumber.halloween.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterHalloween","name":"Halloween Glitter"},
     
     {"appurl":"","count":"24","image":"draw1","name":"Unicorns1"}
     ,{"appurl":"","count":"38","image":"draw2","name":"Unicorns2"}
@@ -7,8 +9,9 @@
     ,{"appurl":"","count":"25","image":"draw4","name":"Unicorns4"}
     ,{"appurl":"","count":"32","image":"draw5","name":"Unicorns5"}
     ,{"appurl":"","count":"29","image":"draw6","name":"Unicorns6"}
+
     ,{"appurl":"com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterDress","name":"Dress Glitter"}
-    ,{"appurl":"com.coloringbynumber.car.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterCars","name":"Cars Glitter"}
+    ,{"appurl":"com.coloringbynumber.mermaid.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterMermaid","name":"Mermaid Glitter"}
 
 
     ,{"appurl":"","count":"32","image":"draw7","name":"Unicorns7"}
@@ -17,6 +20,9 @@
     ,{"appurl":"","count":"36","image":"draw10","name":"Unicorns10"}
     ,{"appurl":"","count":"35","image":"draw11","name":"Unicorns11"}
     ,{"appurl":"","count":"31","image":"draw12","name":"Unicorns12"}
+
+    ,{"appurl":"com.coloringbynumber.anime.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterAnime","name":"Anime Glitter"}
+    ,{"appurl":"com.coloringbynumber.car.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterCars","name":"Cars Glitter"}
 
 
 
