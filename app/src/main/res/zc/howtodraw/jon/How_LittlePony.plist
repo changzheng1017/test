@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>category</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Angel Pony</string>
+			<key>image</key>
+			<string>AngelPony</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple Bloom</string>
+			<key>image</key>
+			<string>AppleBloom</string>
+			<key>count</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Applejack</string>
+			<key>image</key>
+			<string>Applejack</string>
+			<key>count</key>
+			<string>6</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Applejack Chibi</string>
+			<key>image</key>
+			<string>ApplejackChibi</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big Macintosh</string>
+			<key>image</key>
+			<string>BigMacintosh</string>
+			<key>count</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Derpy Hooves</string>
+			<key>image</key>
+			<string>DerpyHooves</string>
+			<key>count</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Devil Pony</string>
+			<key>image</key>
+			<string>DevilPony</string>
+			<key>count</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dj Shy Fluttershy</string>
+			<key>image</key>
+			<string>DjShyFluttershy</string>
+			<key>count</key>
+			<string>10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Draculaura</string>
+			<key>image</key>
+			<string>Draculaura</string>
+			<key>count</key>
+			<string>9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elsa</string>
+			<key>image</key>
+			<string>Elsa</string>
+			<key>count</key>
+			<string>11</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fairy Pony</string>
+			<key>image</key>
+			<string>FairyPony</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fluffle Puff</string>
+			<key>image</key>
+			<string>FlufflePuff</string>
+			<key>count</key>
+			<string>10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Flutterbat</string>
+			<key>image</key>
+			<string>Flutterbat</string>
+			<key>count</key>
+			<string>14</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fluttershy</string>
+			<key>image</key>
+			<string>Fluttershy</string>
+			<key>count</key>
+			<string>16</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fluttershy Chibi</string>
+			<key>image</key>
+			<string>FluttershyChibi</string>
+			<key>count</key>
+			<string>6</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fluttershy Two</string>
+			<key>image</key>
+			<string>FluttershyTwo</string>
+			<key>count</key>
+			<string>6</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frankie Shtein</string>
+			<key>image</key>
+			<string>FrankieShtein</string>
+			<key>count</key>
+			<string>9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lady Bug</string>
+			<key>image</key>
+			<string>LadyBug</string>
+			<key>count</key>
+			<string>9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Luna Princess</string>
+			<key>image</key>
+			<string>LunaPrincess</string>
+			<key>count</key>
+			<string>11</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lyra Heartstrings</string>
+			<key>image</key>
+			<string>LyraHeartstrings</string>
+			<key>count</key>
+			<string>9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maud Pie</string>
+			<key>image</key>
+			<string>MaudPie</string>
+			<key>count</key>
+			<string>9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nightmare Rarity</string>
+			<key>image</key>
+			<string>NightmareRarity</string>
+			<key>count</key>
+			<string>15</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pinkie Pie</string>
+			<key>image</key>
+			<string>PinkiePie</string>
+			<key>count</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pinkie Pie Chibi</string>
+			<key>image</key>
+			<string>PinkiePieChibi</string>
+			<key>count</key>
+			<string>9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pinkie Pie Heart</string>
+			<key>image</key>
+			<string>PinkiePieHeart</string>
+			<key>count</key>
+			<string>12</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pinkie Pie Three</string>
+			<key>image</key>
+			<string>PinkiePieThree</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pinkie Pie Two</string>
+			<key>image</key>
+			<string>PinkiePieTwo</string>
+			<key>count</key>
+			<string>6</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pipsqueak</string>
+			<key>image</key>
+			<string>Pipsqueak</string>
+			<key>count</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pony Squirtle</string>
+			<key>image</key>
+			<string>PonySquirtle</string>
+			<key>count</key>
+			<string>10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Princess Cadance</string>
+			<key>image</key>
+			<string>PrincessCadance</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Princess Celestia</string>
+			<key>image</key>
+			<string>PrincessCelestia</string>
+			<key>count</key>
+			<string>10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Princess Luna</string>
+			<key>image</key>
+			<string>PrincessLuna</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Queen Chrysalis</string>
+			<key>image</key>
+			<string>QueenChrysalis</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rainbow Dash</string>
+			<key>image</key>
+			<string>RainbowDash</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rainbow Dash</string>
+			<key>image</key>
+			<string>RainbowDashAndCareBear</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rainbow Dash Chibi</string>
+			<key>image</key>
+			<string>RainbowDashChibi</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rainbow Dash Two</string>
+			<key>image</key>
+			<string>RainbowDashTwo</string>
+			<key>count</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rarity</string>
+			<key>image</key>
+			<string>Rarity</string>
+			<key>count</key>
+			<string>10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rarity Chibi</string>
+			<key>image</key>
+			<string>RarityChibi</string>
+			<key>count</key>
+			<string>9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Seapony</string>
+			<key>image</key>
+			<string>Seapony</string>
+			<key>count</key>
+			<string>9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sweetie Belle</string>
+			<key>image</key>
+			<string>SweetieBelle</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tempest Shadow</string>
+			<key>image</key>
+			<string>TempestShadow</string>
+			<key>count</key>
+			<string>12</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Twilight Sparkle</string>
+			<key>image</key>
+			<string>TwilightSparkle</string>
+			<key>count</key>
+			<string>10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Twilight Sparkle Chibi</string>
+			<key>image</key>
+			<string>TwilightSparkleChibi</string>
+			<key>count</key>
+			<string>12</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Twilight Sparkle Two</string>
+			<key>image</key>
+			<string>TwilightSparkleTwo</string>
+			<key>count</key>
+			<string>9</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Twilight Sparkle Wings</string>
+			<key>image</key>
+			<string>TwilightSparkleWings</string>
+			<key>count</key>
+			<string>10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zombie Pinkie Pie</string>
+			<key>image</key>
+			<string>ZombiePinkiePie</string>
+			<key>count</key>
+			<string>8</string>
+		</dict>
+	</array>
+</dict>
+</plist>
