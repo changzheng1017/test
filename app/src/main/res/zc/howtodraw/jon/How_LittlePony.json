@@ -1,16 +1,40 @@
 {"category":[
+
+	{"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
+	{"appurl":"how.to.draw.cute.food","count":"0","image":"foodDrink","name":"Food Drink"},
+
+
 	{"appurl":"","count":"9","image":"AngelPony","name":"Angel Pony"},
 	{"appurl":"","count":"8","image":"AppleBloom","name":"Apple Bloom"},
 	{"appurl":"","count":"7","image":"Applejack","name":"Applejack"},
 	{"appurl":"","count":"9","image":"ApplejackChibi","name":"Applejack Chibi"},
+
+	{"appurl":"com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterDress","name":"Dress Glitter"},
+	{"appurl":"com.coloringbynumber.mermaid.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterMermaid","name":"Mermaid Glitter"},
+
+
 	{"appurl":"","count":"8","image":"BigMacintosh","name":"Big Macintosh"},
 	{"appurl":"","count":"8","image":"DerpyHooves","name":"Derpy Hooves"},
 	{"appurl":"","count":"8","image":"DevilPony","name":"Devil Pony"},
 	{"appurl":"","count":"11","image":"DjShyFluttershy","name":"Dj Shy Fluttershy"},
+
+
+	{"appurl":"com.coloringbynumber.anime.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterAnime","name":"Anime Glitter"},
+
+	{"appurl":"com.coloringbynumber.princess.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterPrincess","name":"Princess Glitter"},
+
+
 	{"appurl":"","count":"9","image":"Draculaura","name":"Draculaura"},
 	{"appurl":"","count":"11","image":"Elsa","name":"Elsa"},
 	{"appurl":"","count":"8","image":"FairyPony","name":"Fairy Pony"},
 	{"appurl":"","count":"10","image":"FlufflePuff","name":"Fluffle Puff"},
+
+
+	{"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
+	{"appurl":"how.to.draw.cute.food","count":"0","image":"foodDrink","name":"Food Drink"},
+
+
+
 	{"appurl":"","count":"14","image":"Flutterbat","name":"Flutterbat"},
 	{"appurl":"","count":"15","image":"Fluttershy","name":"Fluttershy"},
 	{"appurl":"","count":"9","image":"FluttershyChibi","name":"Fluttershy Chibi"},
