@@ -1,6 +1,7 @@
 {"category":[
     {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
     {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
+
     {"appurl":"","count":"7","image":"draw1","name":"Anime1"}
     ,{"appurl":"","count":"9","image":"draw2","name":"Anime2"}
     ,{"appurl":"","count":"9","image":"draw3","name":"Anime3"}
@@ -8,9 +9,8 @@
     ,{"appurl":"","count":"7","image":"draw5","name":"Anime5"}
     ,{"appurl":"","count":"10","image":"draw6","name":"Anime6"}
 
-    ,{"appurl":"com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterDress","name":"Dress Glitter"}
+    ,{"appurl":"cute.girls.color.by.number","count":"0","image":"ColorGirls","name":"Cute Girls"}
     ,{"appurl":"how.to.draw.cute.food","count":"0","image":"foodDrink","name":"Food Drink"}
-
 
 
 
@@ -23,8 +23,8 @@
 
 
 
-    ,{"appurl":"com.coloringbynumber.anime.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterAnime","name":"Anime Glitter"}
-    ,{"appurl":"com.coloringbynumber.princess.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterPrincess","name":"Princess Glitter"}
+   ,{"appurl":"com.coloringbynumber.anime.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterAnime","name":"Anime Glitter"}
+   ,{"appurl":"com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterDress","name":"Dress Glitter"}
 
 
     ,{"appurl":"","count":"8","image":"draw13","name":"Anime13"}
