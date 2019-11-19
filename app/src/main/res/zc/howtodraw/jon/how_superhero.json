@@ -1,9 +1,21 @@
 {"category":[
 
+
+  {"appurl":"cute.food.color.by.number","count":"0","image":"ColorFoodDrink","name":"Food Drink"},
+  {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
+
+
   {"appurl":"","count":"16","image":"draw1","name":"Superhero1"},
   {"appurl":"","count":"12","image":"draw2","name":"Superhero2"},
   {"appurl":"","count":"13","image":"draw3","name":"Superhero3"},
   {"appurl":"","count":"12","image":"draw4","name":"Superhero4"},
+
+
+  {"appurl":"cute.girls.color.by.number","count":"0","image":"ColorGirls","name":"Cute Girls"},
+  {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
+
+
+
   {"appurl":"","count":"13","image":"draw5","name":"Superhero5"},
   {"appurl":"","count":"12","image":"draw6","name":"Superhero6"},
   {"appurl":"","count":"13","image":"draw7","name":"Superhero7"}]}

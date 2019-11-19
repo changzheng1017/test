@@ -1,8 +1,21 @@
 {"category":[
+
+  {"appurl":"cute.food.color.by.number","count":"0","image":"ColorFoodDrink","name":"Food Drink"},
+  {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
+
+
   {"appurl":"","count":"11","image":"draw1","name":"Princess1"},
   {"appurl":"","count":"14","image":"draw2","name":"Princess2"},
   {"appurl":"","count":"10","image":"draw3","name":"Princess3"},
   {"appurl":"","count":"9","image":"draw4","name":"Princess4"},
+
+
+
+  {"appurl":"cute.girls.color.by.number","count":"0","image":"ColorGirls","name":"Cute Girls"},
+  {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
+
+
+
   {"appurl":"","count":"11","image":"draw5","name":"Princess5"},
   {"appurl":"","count":"13","image":"draw6","name":"Princess6"},
   {"appurl":"","count":"10","image":"draw7","name":"Princess7"},

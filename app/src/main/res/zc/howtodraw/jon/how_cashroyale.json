@@ -1,12 +1,32 @@
 {"category":[
+
+  {"appurl":"cute.food.color.by.number","count":"0","image":"ColorFoodDrink","name":"Food Drink"},
+  {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
+
+
   {"appurl":"","count":"15","image":"draw1","name":"Clash Royale1"},
   {"appurl":"","count":"17","image":"draw2","name":"Clash Royale2"},
   {"appurl":"","count":"18","image":"draw3","name":"Clash Royale3"},
   {"appurl":"","count":"14","image":"draw4","name":"Clash Royale4"},
+
+  {"appurl":"cute.girls.color.by.number","count":"0","image":"ColorGirls","name":"Cute Girls"},
+  {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
+
+
+
   {"appurl":"","count":"11","image":"draw5","name":"Clash Royale5"},
   {"appurl":"","count":"15","image":"draw6","name":"Clash Royale6"},
   {"appurl":"","count":"12","image":"draw7","name":"Clash Royale7"},
   {"appurl":"","count":"14","image":"draw8","name":"Clash Royale8"},
+
+
+
+  {"appurl":"how.to.draw.cute.food","count":"0","image":"foodDrink","name":"Food Drink"},
+  {"appurl":"com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterDress","name":"Dress Glitter"},
+
+
+
+
   {"appurl":"","count":"15","image":"draw9","name":"Clash Royale9"},
   {"appurl":"","count":"15","image":"draw10","name":"Clash Royale10"},
   {"appurl":"","count":"18","image":"draw11","name":"Clash Royale11"},
