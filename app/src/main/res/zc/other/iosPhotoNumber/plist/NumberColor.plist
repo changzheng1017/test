@@ -141,7 +141,7 @@
 			<string>anime1_33</string>
 		</dict>
 	</array>
-	<key>c_Cute Anime</key>
+	<key>c_CuteAnime</key>
 	<array>
 		<dict>
 			<key>name</key>
@@ -304,7 +304,7 @@
 			<string>cuteAnime1_39</string>
 		</dict>
 	</array>
-	<key>d_Food &amp; Drink</key>
+	<key>d_FoodDrink</key>
 	<array>
 		<dict>
 			<key>name</key>
