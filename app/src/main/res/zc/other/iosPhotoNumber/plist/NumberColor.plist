@@ -6,12 +6,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>LinePuzzle</string>
-			<key>url</key>
-			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime1_00</string>
 		</dict>
 		<dict>
@@ -146,18 +140,18 @@
 			<key>name</key>
 			<string>anime1_33</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>LinePuzzle</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
+		</dict>
 	</array>
 	<key>b_CuteAnime</key>
 	<array>
 		<dict>
 			<key>name</key>
 			<string>cuteAnime1_00</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LinePuzzle</string>
-			<key>url</key>
-			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -315,15 +309,15 @@
 			<key>name</key>
 			<string>cuteAnime1_39</string>
 		</dict>
-	</array>
-	<key>c_FoodDrink</key>
-	<array>
 		<dict>
 			<key>name</key>
 			<string>LinePuzzle</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
 		</dict>
+	</array>
+	<key>c_FoodDrink</key>
+	<array>
 		<dict>
 			<key>name</key>
 			<string>food1_00</string>
@@ -479,6 +473,12 @@
 		<dict>
 			<key>name</key>
 			<string>food1_38</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LinePuzzle</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
 		</dict>
 	</array>
 	<key>d_Unicorn</key>
