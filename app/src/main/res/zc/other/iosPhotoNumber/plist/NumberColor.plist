@@ -6,6 +6,12 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>LinePuzzle</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>anime1_00</string>
 		</dict>
 		<dict>
@@ -146,6 +152,12 @@
 		<dict>
 			<key>name</key>
 			<string>cuteAnime1_00</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LinePuzzle</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -308,6 +320,12 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>LinePuzzle</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>food1_00</string>
 		</dict>
 		<dict>
@@ -465,111 +483,111 @@
 	</array>
 	<key>d_Unicorn</key>
 	<array>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_00</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_01</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_02</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_03</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_04</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_05</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_06</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_07</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_08</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_09</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_10</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_11</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_12</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_13</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_14</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_15</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_16</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_17</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_18</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_19</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_20</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_21</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_22</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_23</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_24</string>
-    		</dict>
-    		<dict>
-    			<key>name</key>
-    			<string>unicorn1_25</string>
-    		</dict>
-    	</array>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_00</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_01</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_02</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_03</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_04</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_05</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_06</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_07</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_08</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_09</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_11</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_12</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_13</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_14</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_15</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_16</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_17</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_18</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_19</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_20</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_21</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_22</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_23</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_24</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>unicorn1_25</string>
+		</dict>
+	</array>
 	<key>e_Girls</key>
 	<array>
 		<dict>
