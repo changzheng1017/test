@@ -3,13 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>fb</key>
-	<array/>
+	<array>
+		<dict>
+			<key>text</key>
+			<string>Facebook</string>
+			<key>textDeail</key>
+			<string>like Facebook</string>
+			<key>webUrl</key>
+			<string>https://www.facebook.com/ColorByNumberApps</string>
+			<key>url</key>
+			<string>fb://profile/564505860632777</string>
+			<key>image</key>
+			<string>facebookIcon</string>
+			<key>FbBool</key>
+			<string>yes</string>
+		</dict>
+	</array>
 	<key>rate</key>
 	<dict>
 		<key>starNumber</key>
 		<string>5</string>
 		<key>rateBool</key>
-		<string>0</string>
+		<string>1</string>
 	</dict>
 </dict>
 </plist>
