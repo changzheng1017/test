@@ -1670,12 +1670,16 @@
 			<string>cuteAnime4_35</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+            <string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>cuteAnime4_36</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+            <string>yes</string>
 		</dict>
 	</array>
 	<key>d_FoodDrink</key>
