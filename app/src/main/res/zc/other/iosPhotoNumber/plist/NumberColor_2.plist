@@ -29,8 +29,7 @@
 			<string>anime1_03</string>
 			<key>category</key>
 			<string>Anime</string>
-			<key>ads</key>
-			<string>yes</string>
+
 		</dict>
 		<dict>
 			<key>name</key>
@@ -61,8 +60,7 @@
 			<string>anime1_08</string>
 			<key>category</key>
 			<string>Anime</string>
-			<key>ads</key>
-			<string>yes</string>
+
 		</dict>
 		<dict>
 			<key>name</key>
@@ -93,8 +91,7 @@
 			<string>anime1_13</string>
 			<key>category</key>
 			<string>Anime</string>
-			<key>ads</key>
-			<string>yes</string>
+
 		</dict>
 		<dict>
 			<key>name</key>
@@ -665,6 +662,9 @@
 			<string>anime4_17</string>
 			<key>category</key>
 			<string>Anime</string>
+
+			<key>ads</key>
+            <string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -689,6 +689,9 @@
 			<string>anime4_21</string>
 			<key>category</key>
 			<string>Anime</string>
+
+			<key>ads</key>
+            <string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -713,6 +716,10 @@
 			<string>anime4_25</string>
 			<key>category</key>
 			<string>Anime</string>
+
+			<key>ads</key>
+            <string>yes</string>
+
 		</dict>
 		<dict>
 			<key>name</key>
@@ -746,8 +753,7 @@
 			<string>cuteAnime1_02</string>
 			<key>category</key>
 			<string>CuteAnime</string>
-			<key>ads</key>
-			<string>yes</string>
+
 		</dict>
 		<dict>
 			<key>name</key>
@@ -784,8 +790,7 @@
 			<string>cuteAnime1_08</string>
 			<key>category</key>
 			<string>CuteAnime</string>
-			<key>ads</key>
-			<string>yes</string>
+
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1614,6 +1619,9 @@
 			<string>cuteAnime4_28</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+
+			<key>ads</key>
+            <string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1632,6 +1640,9 @@
 			<string>cuteAnime4_31</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+
+			<key>ads</key>
+            <string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1650,6 +1661,9 @@
 			<string>cuteAnime4_34</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+
+			<key>ads</key>
+            <string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1689,8 +1703,7 @@
 			<string>food1_03</string>
 			<key>category</key>
 			<string>FoodDrink</string>
-			<key>ads</key>
-			<string>yes</string>
+
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1721,8 +1734,7 @@
 			<string>food1_08</string>
 			<key>category</key>
 			<string>FoodDrink</string>
-			<key>ads</key>
-			<string>yes</string>
+
 		</dict>
 		<dict>
 			<key>name</key>
