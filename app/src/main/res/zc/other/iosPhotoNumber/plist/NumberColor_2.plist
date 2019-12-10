@@ -690,12 +690,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>anime4_22</string>
-			<key>category</key>
-			<string>Anime</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime4_23</string>
 			<key>category</key>
 			<string>Anime</string>
@@ -708,21 +702,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>anime4_25</string>
-			<key>category</key>
-			<string>Anime</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime4_26</string>
-			<key>category</key>
-			<string>Anime</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime4_27</string>
 			<key>category</key>
 			<string>Anime</string>
 		</dict>
@@ -2365,24 +2345,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>girls4_16</string>
-			<key>category</key>
-			<string>People</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>girls4_17</string>
-			<key>category</key>
-			<string>People</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>girls4_18</string>
-			<key>category</key>
-			<string>People</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>girls4_19</string>
 			<key>category</key>
 			<string>People</string>
@@ -3449,24 +3411,6 @@
 		<dict>
 			<key>name</key>
 			<string>animals1_08</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_09</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_10</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_11</string>
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
@@ -5023,22 +4967,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>stillLife1_12</string>
-			<key>category</key>
-			<string>SlowLife</string>
-			<key>model</key>
-			<string>oil</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>stillLife1_13</string>
-			<key>category</key>
-			<string>SlowLife</string>
-			<key>model</key>
-			<string>oil</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>stillLife1_14</string>
 			<key>category</key>
 			<string>SlowLife</string>
@@ -5147,14 +5075,6 @@
 		<dict>
 			<key>name</key>
 			<string>ocean1_09</string>
-			<key>category</key>
-			<string>Ocean</string>
-			<key>model</key>
-			<string>oil</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ocean1_10</string>
 			<key>category</key>
 			<string>Ocean</string>
 			<key>model</key>
