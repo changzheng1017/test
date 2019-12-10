@@ -5578,5 +5578,9 @@
 		<string>n_Sports</string>
 		<string>o_Holiday</string>
 	</array>
+	<key>Daily</key>
+	<array>
+		<string>20191211</string>
+	</array>
 </dict>
 </plist>
