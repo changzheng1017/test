@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>a_AllPhoto</key>
+	<array/>
+	<key>b_Anime</key>
+	<array>
+
+
+
+	</array>
+	<key>c_CuteAnime</key>
+	<array>
+
+
+
+
+
+
+
+	</array>
+	<key>d_Landscapes</key>
+	<array>
+
+
+
+
+
+
+
+
+	</array>
+	<key>e_People</key>
+	<array>
+
+
+
+
+
+		<dict>
+			<key>name</key>
+			<string>people1_1</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+	</array>
+	<key>f_Travel</key>
+	<array>
+
+
+
+
+
+
+
+
+
+
+	</array>
+	<key>g_FoodDrink</key>
+	<array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</array>
+	<key>h_Animals</key>
+	<array>
+
+
+
+
+	</array>
+	<key>i_Flower</key>
+	<array>
+
+
+
+
+
+
+
+
+
+
+	</array>
+	<key>j_Cartoon</key>
+	<array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</array>
+	<key>k_SlowLife</key>
+	<array>
+
+
+
+
+
+
+
+	</array>
+	<key>l_Ocean</key>
+	<array>
+
+
+
+
+
+
+	</array>
+	<key>m_Vehicles</key>
+	<array>
+
+
+
+
+
+	</array>
+	<key>n_Sports</key>
+	<array>
+
+
+
+
+
+
+
+	</array>
+	<key>o_Holiday</key>
+	<array>
+
+	</array>
+</dict>
+</plist>
