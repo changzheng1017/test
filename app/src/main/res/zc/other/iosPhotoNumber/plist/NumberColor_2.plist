@@ -2686,6 +2686,22 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_36</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_37</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>g_FoodDrink</key>
 	<array>
@@ -5040,6 +5056,14 @@
 		<dict>
 			<key>name</key>
 			<string>stillLife1_16</string>
+			<key>category</key>
+			<string>SlowLife</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>stillLife1_17</string>
 			<key>category</key>
 			<string>SlowLife</string>
 			<key>model</key>
