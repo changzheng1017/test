@@ -4353,6 +4353,8 @@
 			<string>anime4_17</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4437,6 +4439,14 @@
 			<string>girls4_18</string>
 			<key>category</key>
 			<string>People</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_09</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4559,6 +4569,8 @@
 			<string>anime4_21</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4933,6 +4945,8 @@
 			<string>anime4_25</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5257,6 +5271,8 @@
 			<string>cuteAnime4_28</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5359,6 +5375,8 @@
 			<string>cuteAnime4_31</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5483,18 +5501,24 @@
 			<string>cuteAnime4_34</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>cuteAnime4_35</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>cuteAnime4_36</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5535,6 +5559,22 @@
 			<string>Holiday</string>
 			<key>model</key>
 			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LinePuzzle</string>
+			<key>category</key>
+            <string>AllPhoto</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>facebookIcon</string>
+			<key>category</key>
+            <string>AllPhoto</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
 		</dict>
 	</array>
 	<key>Category</key>
