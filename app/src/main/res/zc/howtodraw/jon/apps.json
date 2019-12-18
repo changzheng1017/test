@@ -1,6 +1,13 @@
 {"myApps":[{"appurl":"https://play.google.com/store/apps/details?id=com.howtodraw.girl","image":"Girl","name":"How to draw girls"},
   {"appurl":"https://play.google.com/store/apps/details?id=com.howtodraw.christmas","image":"Christmas","name":"How to Draw Christmas"},
   {"appurl":"https://play.google.com/store/apps/details?id=how.to.draw.cute.food","image":"foodDrink","name":"food & Drink"},
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howtodraw.threedimensional","image":"3D","name":"How to draw 3D"},
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howtodraw.youtubers","image":"FamousYoutubers","name":"Famous Youtubers"},
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howtodraw.bestcutedolls","image":"CuteDolls","name":"Cute Dolls"},
+
+
+
   {"appurl":"https://play.google.com/store/apps/details?id=com.howtodraw.chibicharacters","image":"ChibiCharacters","name":"Chibi Characters"},
   {"appurl":"https://play.google.com/store/apps/details?id=com.howtodraw.disneydescendants2","image":"Descendants2","name":"Disney Descendants"},
   {"appurl":"https://play.google.com/store/apps/details?id=com.howtodraw.cutesuperheroes","image":"Superheroes","name":"Draw Superheroes"},
