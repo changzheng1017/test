@@ -10,10 +10,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>anime1_01</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime1_02</string>
 		</dict>
 		<dict>
@@ -368,9 +364,7 @@
 			<key>name</key>
 			<string>anime3_27</string>
 		</dict>
-
-
-<dict>
+		<dict>
 			<key>name</key>
 			<string>anime4_00</string>
 		</dict>
@@ -482,7 +476,6 @@
 			<key>name</key>
 			<string>anime4_27</string>
 		</dict>
-
 	</array>
 	<key>b_CuteAnime</key>
 	<array>
@@ -958,7 +951,7 @@
 			<key>name</key>
 			<string>cuteAnime3_38</string>
 		</dict>
-<dict>
+		<dict>
 			<key>name</key>
 			<string>cuteAnime4_00</string>
 		</dict>
@@ -1106,8 +1099,6 @@
 			<key>name</key>
 			<string>cuteAnime4_36</string>
 		</dict>
-
-
 	</array>
 	<key>c_FoodDrink</key>
 	<array>
@@ -1571,7 +1562,6 @@
 			<key>name</key>
 			<string>food3_37</string>
 		</dict>
-
 	</array>
 	<key>d_Unicorn</key>
 	<array>
@@ -1919,7 +1909,6 @@
 			<key>name</key>
 			<string>unicorn4_19</string>
 		</dict>
-
 	</array>
 	<key>e_Girls</key>
 	<array>
@@ -2243,7 +2232,6 @@
 			<key>name</key>
 			<string>girls4_19</string>
 		</dict>
-
 	</array>
 	<key>f_Animals</key>
 	<array>
@@ -2583,7 +2571,6 @@
 			<key>name</key>
 			<string>animals4_19</string>
 		</dict>
-
 	</array>
 	<key>g_Flower</key>
 	<array>
@@ -2919,7 +2906,6 @@
 			<key>name</key>
 			<string>flower4_19</string>
 		</dict>
-
 	</array>
 </dict>
 </plist>
