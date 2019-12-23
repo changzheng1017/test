@@ -367,30 +367,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>cuteAnime5_05</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime5_06</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime5_07</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime5_08</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime5_09</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime5_10</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>cuteAnime5_11</string>
 		</dict>
 		<dict>
@@ -790,14 +766,6 @@
 	</array>
 	<key>c_FoodDrink</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>food4_00</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_01</string>
-		</dict>
 		<dict>
 			<key>name</key>
 			<string>food4_02</string>
@@ -1813,18 +1781,6 @@
 	</array>
 	<key>f_Animals</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>animals5_00</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals5_01</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals5_02</string>
-		</dict>
 		<dict>
 			<key>name</key>
 			<string>animals5_03</string>
