@@ -10492,18 +10492,14 @@
 			<key>model</key>
 			<string>line</string>
 		</dict>
-
-
-
-        <dict>
-        	<key>name</key>
-        	<string>people1_1</string>
-        	<key>category</key>
-        	<string>People</string>
-        	<key>model</key>
-        	<string>oil</string>
-        </dict>
-
+		<dict>
+			<key>name</key>
+			<string>people1_1</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>girls4_14</string>
@@ -10796,11 +10792,11 @@
 	<key>Category</key>
 	<array>
 		<string>b_Bonus</string>
-		<string>c_Animals</string>
-		<string>d_Anime</string>
-		<string>e_CuteAnime</string>
-		<string>f_Florals</string>
-		<string>g_People</string>
+		<string>c_Anime</string>
+		<string>d_CuteAnime</string>
+		<string>e_Animals</string>
+		<string>f_People</string>
+		<string>g_Florals</string>
 		<string>h_Food</string>
 		<string>i_Scenery</string>
 		<string>j_Travel</string>
