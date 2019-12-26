@@ -5592,6 +5592,46 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_08</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_09</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_10</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_11</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_12</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
