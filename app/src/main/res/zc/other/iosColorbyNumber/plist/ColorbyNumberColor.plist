@@ -10800,19 +10800,20 @@
 		<string>h_Food</string>
 		<string>i_Scenery</string>
 		<string>j_Travel</string>
-		<string>k_Cartoon</string>
-		<string>l_PolylArt</string>
-		<string>m_SlowLife</string>
-		<string>n_Ocean</string>
-		<string>o_Vehicles</string>
-		<string>p_Mandala</string>
-		<string>q_Heart</string>
-		<string>r_Sports</string>
-		<string>s_Oriental</string>
-		<string>t_Letter</string>
-		<string>u_SpecialDates</string>
-		<string>v_Basic</string>
-		<string>w_Zodiac</string>
+		<string>k_Bible</string>
+		<string>l_SlowLife</string>
+		<string>m_Cartoon</string>
+		<string>n_PolylArt</string>
+		<string>o_Ocean</string>
+		<string>p_Vehicles</string>
+		<string>q_Mandala</string>
+		<string>r_Heart</string>
+		<string>s_Sports</string>
+		<string>t_Oriental</string>
+		<string>u_Letter</string>
+		<string>v_SpecialDates</string>
+		<string>w_Basic</string>
+		<string>x_Zodiac</string>
 	</array>
 	<key>Daily</key>
 	<string></string>
