@@ -1432,7 +1432,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170518_001</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1440,7 +1440,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170518_002</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1448,7 +1448,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170518_003</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1456,7 +1456,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170518_004</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1464,7 +1464,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170518_005</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1472,7 +1472,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170518_006</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1480,7 +1480,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170518_008</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1608,7 +1608,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170518_010</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1616,7 +1616,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170419_060</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1624,7 +1624,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170419_061</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1632,7 +1632,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170420_100</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1640,7 +1640,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170419_056</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -1648,7 +1648,7 @@
 			<key>name</key>
 			<string>Pixel_art_20170419_060</string>
 			<key>category</key>
-			<string>PixelArt</string>
+			<string>PolylArt</string>
 			<key>model</key>
 			<string>old</string>
 		</dict>
@@ -10801,17 +10801,17 @@
 		<string>i_Scenery</string>
 		<string>j_Travel</string>
 		<string>k_Cartoon</string>
-		<string>l_Mandala</string>
+		<string>l_PolylArt</string>
 		<string>m_SlowLife</string>
 		<string>n_Ocean</string>
 		<string>o_Vehicles</string>
-		<string>p_Heart</string>
-		<string>q_Sports</string>
-		<string>r_Oriental</string>
-		<string>s_Letter</string>
-		<string>t_SpecialDates</string>
-		<string>u_Basic</string>
-		<string>v_PixelArt</string>
+		<string>p_Mandala</string>
+		<string>q_Heart</string>
+		<string>r_Sports</string>
+		<string>s_Oriental</string>
+		<string>t_Letter</string>
+		<string>u_SpecialDates</string>
+		<string>v_Basic</string>
 		<string>w_Zodiac</string>
 	</array>
 	<key>Daily</key>
