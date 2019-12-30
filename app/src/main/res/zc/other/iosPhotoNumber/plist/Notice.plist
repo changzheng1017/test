@@ -26,5 +26,7 @@
 		<key>rateBool</key>
 		<string>1</string>
 	</dict>
+	<key>clearCache</key>
+	<string>1231</string>
 </dict>
 </plist>
