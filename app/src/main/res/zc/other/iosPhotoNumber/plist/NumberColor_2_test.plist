@@ -5659,20 +5659,21 @@
 	</array>
 	<key>Category</key>
 	<array>
-		<string>b_Anime</string>
-		<string>c_CuteAnime</string>
-		<string>d_Landscapes</string>
-		<string>e_People</string>
-		<string>f_Travel</string>
-		<string>g_FoodDrink</string>
-		<string>h_Animals</string>
-		<string>i_Flower</string>
-		<string>j_Cartoon</string>
-		<string>k_SlowLife</string>
-		<string>l_Ocean</string>
-		<string>m_Vehicles</string>
-		<string>n_Sports</string>
-		<string>o_Holiday</string>
+		<string>b_Bonus</string>
+		<string>c_Anime</string>
+		<string>d_CuteAnime</string>
+		<string>e_Landscapes</string>
+		<string>f_People</string>
+		<string>g_Travel</string>
+		<string>h_FoodDrink</string>
+		<string>i_Animals</string>
+		<string>j_Flower</string>
+		<string>k_Cartoon</string>
+		<string>l_SlowLife</string>
+		<string>m_Ocean</string>
+		<string>n_Vehicles</string>
+		<string>o_Sports</string>
+		<string>p_Holiday</string>
 	</array>
 	<key>Daily</key>
 	<array/>
