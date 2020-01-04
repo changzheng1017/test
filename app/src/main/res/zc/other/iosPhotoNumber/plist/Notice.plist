@@ -26,6 +26,13 @@
 		<key>rateBool</key>
 		<string>1</string>
 	</dict>
+	<key>FBid</key>
+	<dict>
+		<key>FBid</key>
+		<string>101818514633430</string>
+		<key>FBurl</key>
+		<string>PaintbyNumberApp</string>
+	</dict>
 	<key>clearCache</key>
 	<string>1231</string>
 </dict>
