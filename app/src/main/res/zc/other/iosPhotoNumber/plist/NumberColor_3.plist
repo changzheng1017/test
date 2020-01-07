@@ -1560,12 +1560,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn1_23</string>
-			<key>category</key>
-			<string>Cartoon</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn1_24</string>
 			<key>category</key>
 			<string>Cartoon</string>
@@ -5233,14 +5227,6 @@
 			<string>holiday1_04</string>
 			<key>category</key>
 			<string>Holiday</string>
-			<key>model</key>
-			<string>oil</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>people1_1</string>
-			<key>category</key>
-			<string>People</string>
 			<key>model</key>
 			<string>oil</string>
 		</dict>
