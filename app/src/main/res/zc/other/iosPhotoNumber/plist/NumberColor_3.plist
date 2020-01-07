@@ -2514,12 +2514,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn3_12</string>
-			<key>category</key>
-			<string>Cartoon</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime3_01</string>
 			<key>category</key>
 			<string>Anime</string>
@@ -4243,12 +4237,6 @@
 			<string>flower4_10</string>
 			<key>category</key>
 			<string>Flower</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn4_13</string>
-			<key>category</key>
-			<string>Cartoon</string>
 		</dict>
 		<dict>
 			<key>name</key>
