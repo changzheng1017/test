@@ -5656,6 +5656,12 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_01</string>
+			<key>category</key>
+			<string>anime</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
