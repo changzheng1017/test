@@ -35,5 +35,7 @@
 	</dict>
 	<key>clearCache</key>
 	<string>202017</string>
+	<key>ADSBOOL</key>
+	<string>no</string>
 </dict>
 </plist>
