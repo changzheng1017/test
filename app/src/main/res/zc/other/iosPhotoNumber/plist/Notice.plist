@@ -22,9 +22,9 @@
 	<key>rate</key>
 	<dict>
 		<key>starNumber</key>
-		<string>4</string>
+		<string>0</string>
 		<key>rateBool</key>
-		<string>1</string>
+		<string>0</string>
 	</dict>
 	<key>FBid</key>
 	<dict>
@@ -36,6 +36,6 @@
 	<key>clearCache</key>
 	<string>202018</string>
 	<key>ADSBOOL</key>
-	<string>yes</string>
+	<string>no</string>
 </dict>
 </plist>
