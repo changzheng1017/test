@@ -342,12 +342,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food1_04</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food1_05</string>
 			<key>category</key>
 			<string>FoodDrink</string>
@@ -366,19 +360,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food1_08</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food1_09</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food1_10</string>
 			<key>category</key>
 			<string>FoodDrink</string>
 		</dict>
@@ -426,12 +408,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food1_18</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food1_19</string>
 			<key>category</key>
 			<string>FoodDrink</string>
@@ -445,12 +421,6 @@
 		<dict>
 			<key>name</key>
 			<string>animals1_00</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_01</string>
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
@@ -474,18 +444,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>animals1_05</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_06</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>animals1_07</string>
 			<key>category</key>
 			<string>Animals</string>
@@ -499,24 +457,6 @@
 		<dict>
 			<key>name</key>
 			<string>animals1_09</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_10</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_11</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_12</string>
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
@@ -540,12 +480,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>animals1_16</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>animals1_17</string>
 			<key>category</key>
 			<string>Animals</string>
@@ -559,30 +493,6 @@
 		<dict>
 			<key>name</key>
 			<string>animals1_19</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_20</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_21</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_22</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals1_23</string>
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
@@ -678,25 +588,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>animals2_15</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals2_16</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>animals2_17</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals2_18</string>
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
@@ -1346,12 +1238,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>animals3_04</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>animals3_05</string>
 			<key>category</key>
 			<string>Animals</string>
@@ -1383,12 +1269,6 @@
 		<dict>
 			<key>name</key>
 			<string>animals3_10</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals3_11</string>
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
@@ -1436,12 +1316,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>animals3_19</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>animals4_00</string>
 			<key>category</key>
 			<string>Animals</string>
@@ -1454,25 +1328,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>animals4_02</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals4_03</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>animals4_04</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals4_05</string>
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
@@ -1515,12 +1371,6 @@
 		<dict>
 			<key>name</key>
 			<string>animals4_12</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals4_13</string>
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
@@ -2198,12 +2048,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food2_01</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food2_02</string>
 			<key>category</key>
 			<string>FoodDrink</string>
@@ -2241,12 +2085,6 @@
 		<dict>
 			<key>name</key>
 			<string>food2_08</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food2_09</string>
 			<key>category</key>
 			<string>FoodDrink</string>
 		</dict>
@@ -2294,12 +2132,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food2_17</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food2_18</string>
 			<key>category</key>
 			<string>FoodDrink</string>
@@ -2312,19 +2144,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food2_20</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food2_21</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food2_22</string>
 			<key>category</key>
 			<string>FoodDrink</string>
 		</dict>
@@ -2990,12 +2810,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food3_05</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food3_06</string>
 			<key>category</key>
 			<string>FoodDrink</string>
@@ -3172,19 +2986,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food3_15</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food3_16</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food3_17</string>
 			<key>category</key>
 			<string>FoodDrink</string>
 		</dict>
@@ -3487,12 +3289,6 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food3_18</string>
-			<key>category</key>
-			<string>FoodDrink</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4637,12 +4433,6 @@
 		<dict>
 			<key>name</key>
 			<string>animals4_17</string>
-			<key>category</key>
-			<string>Animals</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>animals4_18</string>
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
