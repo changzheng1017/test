@@ -2822,12 +2822,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food3_08</string>
-			<key>category</key>
-			<string>FoodDrink</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food3_09</string>
 			<key>category</key>
 			<string>FoodDrink</string>
