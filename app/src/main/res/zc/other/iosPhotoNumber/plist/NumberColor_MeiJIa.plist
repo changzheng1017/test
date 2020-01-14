@@ -6,22 +6,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>anime5_07</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime5_08</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime5_09</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime5_10</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime5_11</string>
 		</dict>
 		<dict>
@@ -1327,22 +1311,6 @@
 	</array>
 	<key>d_Unicorn</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>unicorn5_00</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn5_01</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn5_02</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn5_03</string>
-		</dict>
 		<dict>
 			<key>name</key>
 			<string>unicorn5_04</string>
