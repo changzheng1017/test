@@ -136,8 +136,6 @@
 		<key>rateBool</key>
 		<string>1</string>
 	</dict>
-	<key>ads</key>
-	<string>2</string>
 	<key>Material</key>
 	<dict>
 		<key>aGlitter</key>
@@ -350,5 +348,9 @@
 		<key>Show</key>
 		<string>no</string>
 	</dict>
+	<key>ADSBOOL</key>
+	<string>yes</string>
+	<key>clearCache</key>
+	<string>202019</string>
 </dict>
 </plist>
