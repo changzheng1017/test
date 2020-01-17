@@ -10816,6 +10816,22 @@
 		<string>x_Zodiac</string>
 	</array>
 	<key>Daily</key>
-	<string></string>
+	<dict>
+		<key>old</key>
+		<array>
+			<dict>
+				<key>start</key>
+				<string>2019-01-01</string>
+				<key>end</key>
+				<string>2019-12-31</string>
+			</dict>
+		</array>
+		<key>paintModel</key>
+		<array/>
+		<key>oil</key>
+		<array/>
+		<key>line</key>
+		<array/>
+	</dict>
 </dict>
 </plist>
