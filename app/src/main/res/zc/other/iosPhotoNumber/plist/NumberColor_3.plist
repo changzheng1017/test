@@ -5460,6 +5460,18 @@
 			<key>category</key>
 			<string>Anime</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_02</string>
+			<key>category</key>
+			<string>People</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_03</string>
+			<key>category</key>
+			<string>People</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
