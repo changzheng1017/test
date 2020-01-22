@@ -14,7 +14,7 @@
 			<key>url</key>
 			<string>fb://profile/564505860632777</string>
 			<key>image</key>
-			<string>Facebook</string>
+			<string>facebookIcon</string>
 			<key>FbBool</key>
 			<string>yes</string>
 		</dict>
