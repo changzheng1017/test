@@ -11304,7 +11304,14 @@
 		<key>oil</key>
 		<array/>
 		<key>line</key>
-		<array/>
+		<array>
+			<dict>
+				<key>start</key>
+				<string>2020-01-01</string>
+				<key>end</key>
+				<string>2020-02-06</string>
+			</dict>
+		</array>
 	</dict>
 </dict>
 </plist>
