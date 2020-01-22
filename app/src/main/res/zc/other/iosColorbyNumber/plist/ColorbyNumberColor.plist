@@ -726,38 +726,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn1_06</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_07</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_08</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_09</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Mandala_20170518_011</string>
 			<key>category</key>
 			<string>Mandala</string>
@@ -1094,30 +1062,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn1_10</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_11</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_12</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn1_13</string>
 			<key>category</key>
 			<string>Cartoon</string>
@@ -1135,30 +1079,6 @@
 		<dict>
 			<key>name</key>
 			<string>unicorn1_15</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_16</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_17</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_18</string>
 			<key>category</key>
 			<string>Cartoon</string>
 			<key>model</key>
@@ -1614,14 +1534,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn1_19</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn1_20</string>
 			<key>category</key>
 			<string>Cartoon</string>
@@ -1630,63 +1542,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn1_21</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_22</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_23</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn1_24</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn1_25</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn2_00</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn2_01</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn2_02</string>
 			<key>category</key>
 			<string>Cartoon</string>
 			<key>model</key>
@@ -2334,22 +2190,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn2_06</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn2_07</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn2_08</string>
 			<key>category</key>
 			<string>Cartoon</string>
@@ -2374,22 +2214,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn2_11</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn2_12</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn2_13</string>
 			<key>category</key>
 			<string>Cartoon</string>
@@ -2398,39 +2222,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn2_14</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn2_15</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn2_16</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn2_17</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn2_18</string>
 			<key>category</key>
 			<string>Cartoon</string>
 			<key>model</key>
@@ -4311,22 +4103,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn3_00</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_01</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn3_02</string>
 			<key>category</key>
 			<string>Cartoon</string>
@@ -4335,63 +4111,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn3_03</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_04</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_05</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_06</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_07</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn3_08</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_09</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_10</string>
 			<key>category</key>
 			<string>Cartoon</string>
 			<key>model</key>
@@ -6647,70 +6367,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn3_11</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_12</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_13</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_14</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_15</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_16</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_17</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn3_18</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn3_19</string>
 			<key>category</key>
 			<string>Cartoon</string>
@@ -7127,14 +6783,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn4_00</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn4_01</string>
 			<key>category</key>
 			<string>Cartoon</string>
@@ -7151,23 +6799,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>unicorn4_03</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>unicorn4_04</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn4_05</string>
 			<key>category</key>
 			<string>Cartoon</string>
 			<key>model</key>
@@ -7208,14 +6840,6 @@
 		<dict>
 			<key>name</key>
 			<string>unicorn4_10</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn4_11</string>
 			<key>category</key>
 			<string>Cartoon</string>
 			<key>model</key>
@@ -7444,62 +7068,6 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>old</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn4_12</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn4_13</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn4_14</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn4_15</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn4_16</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn4_17</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>unicorn4_18</string>
-			<key>category</key>
-			<string>Cartoon</string>
-			<key>model</key>
-			<string>line</string>
 		</dict>
 		<dict>
 			<key>name</key>
