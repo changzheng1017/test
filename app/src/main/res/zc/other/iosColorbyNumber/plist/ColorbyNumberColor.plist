@@ -10852,6 +10852,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10868,6 +10870,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10884,6 +10888,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10892,6 +10898,24 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LinePuzzle</string>
+			<key>category</key>
+			<string>AllPhoto</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>facebookIcon</string>
+			<key>category</key>
+			<string>AllPhoto</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
 		</dict>
 	</array>
 	<key>Category</key>
