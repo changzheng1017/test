@@ -303,18 +303,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>cuteAnime5_16</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime5_17</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime5_18</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>cuteAnime5_19</string>
 		</dict>
 		<dict>
@@ -682,70 +670,6 @@
 	</array>
 	<key>c_FoodDrink</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>food4_02</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_03</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_04</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_05</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_06</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_07</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_08</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_09</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_10</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_11</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_12</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_13</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_14</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_15</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_16</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_17</string>
-		</dict>
 		<dict>
 			<key>name</key>
 			<string>food4_18</string>
@@ -1598,18 +1522,6 @@
 	</array>
 	<key>e_Girls</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>girls5_04</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>girls5_05</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>girls5_06</string>
-		</dict>
 		<dict>
 			<key>name</key>
 			<string>girls5_07</string>

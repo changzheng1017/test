@@ -5520,6 +5520,72 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>food4_02</string>
+			<key>category</key>
+			<string>FoodDrink</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food4_04</string>
+			<key>category</key>
+			<string>FoodDrink</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food4_05</string>
+			<key>category</key>
+			<string>FoodDrink</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food4_06</string>
+			<key>category</key>
+			<string>FoodDrink</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food4_17</string>
+			<key>category</key>
+			<string>FoodDrink</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_16</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_17</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_18</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_04</string>
+			<key>category</key>
+			<string>People</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_05</string>
+			<key>category</key>
+			<string>People</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_06</string>
+			<key>category</key>
+			<string>People</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
