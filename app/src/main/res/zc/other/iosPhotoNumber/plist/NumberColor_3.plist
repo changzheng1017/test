@@ -5618,6 +5618,30 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_19</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_20</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_21</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_22</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
