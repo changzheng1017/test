@@ -5642,6 +5642,36 @@
 			<key>category</key>
 			<string>CuteAnime</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>flowerA_75</string>
+			<key>category</key>
+			<string>Flower</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>flowerA_76</string>
+			<key>category</key>
+			<string>Flower</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animalsA_08</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animalsA_09</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
