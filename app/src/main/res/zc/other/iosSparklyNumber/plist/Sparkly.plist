@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Photo</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>test_1</string>
+			<key>category</key>
+			<string>Beauty</string>
+		</dict>
+        <dict>
+			<key>name</key>
+			<string>test_1</string>
+			<key>category</key>
+			<string>Fashion</string>
+		</dict>
+        <dict>
+			<key>name</key>
+			<string>test_1</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
+        <dict>
+			<key>name</key>
+			<string>test_1</string>
+			<key>category</key>
+			<string>Food</string>
+		</dict>
+        <dict>
+			<key>name</key>
+			<string>test_1</string>
+			<key>category</key>
+			<string>Living</string>
+		</dict>
+        <dict>
+			<key>name</key>
+			<string>test_1</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
+
+	</array>
+	<key>Category</key>
+	<array>
+		<string>b_Beauty</string>
+		<string>c_Fashion</string>
+		<string>d_Animals</string>
+		<string>e_Food</string>
+		<string>f_Living</string>
+		<string>g_Nature</string>
+	</array>
+	<key>Daily</key>
+	<array/>
+</dict>
+</plist>
