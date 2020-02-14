@@ -11085,6 +11085,30 @@
 			<key>model</key>
 			<string>line</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_22</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_23</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_24</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
