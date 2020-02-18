@@ -7,14 +7,14 @@
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview16" inkscape:current-layer="g6" inkscape:cx="531.25" inkscape:cy="524.49682" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="825" inkscape:window-maximized="0" inkscape:window-width="1442" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.22211765" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
 	</sodipodi:namedview>
 <g id="g6" transform="translate(0.000000,850.000000) scale(0.100000,-0.100000)">
-	<path id="path8" fill="#0000D4" d="M100,6405V4410h2055h2055v1995v1995H2155H100V6405z"/>
-	<path id="path10" fill="#AA0000" d="M4310,6405V4410h2045h2045v1995v1995H6355H4310V6405z"/>
-	<path id="path12" fill="#00AA00" d="M100,2205V100h2055h2055v2105v2105H2155H100V2205z"/>
-	<path id="path14" fill="#9955FF" d="M4310,2205V100h2045h2045v2105v2105H6355H4310V2205z"/>
+	<path id="path8" fill="#0000D4" d="M100,6405L100,6405h2055h2055l0,0v1995H2155H100V6405z"/>
+	<path id="path10" fill="#AA0000" d="M4310,6405L4310,6405h2045h2045l0,0v1995H6355H4310V6405z"/>
+	<path id="path12" fill="#00AA00" d="M100,4195.3V100h2055h2055v4095.3v2105H2155H100V4195.3z"/>
+	<path id="path14" fill="#9955FF" d="M4310,4200V100h2045h2045v4100v2105H6355H4310V4200z"/>
 </g>
 <g transform="translate(0.000000,850.000000) scale(0.100000,-0.100000)">
-	<path d="M0,4250V0h4250h4250v4250v4250H4250H0V4250z M4210,6405V4410H2155H100v1995v1995h2055h2055V6405z M8400,6405V4410H6355
-		H4310v1995v1995h2045h2045V6405z M4210,2205V100H2155H100v2105v2105h2055h2055V2205z M8400,2205V100H6355H4310v2105v2105h2045h2045
-		V2205z"/>
+	<path d="M0,4250V0h4250h4250v4250v4250H4250H0V4250z M4210,6405L4210,6405H2155H100l0,0v1995h2055h2055V6405z M8400,6405L8400,6405
+		H6355H4310l0,0v1995h2045h2045V6405z M4210,2205V100H2155H100v2105v4100h2055h2055V2205z M8400,2205V100H6355H4310v2105v4100h2045
+		h2045V2205z"/>
 </g>
 </svg>
