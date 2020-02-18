@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" baseProfile="tiny"
-	 id="svg2" inkscape:version="0.91 r13725" sodipodi:docname="test_fan.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 id="svg2" inkscape:version="0.91 r13725" sodipodi:docname="test_2.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 850 850"
 	 xml:space="preserve">
-<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview16" inkscape:current-layer="g6" inkscape:cx="531.25" inkscape:cy="524.49682" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="825" inkscape:window-maximized="0" inkscape:window-width="1442" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.22211765" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview16" inkscape:current-layer="g6" inkscape:cx="237.65242" inkscape:cy="548.50114" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="820" inkscape:window-maximized="1" inkscape:window-width="1440" inkscape:window-x="0" inkscape:window-y="1" inkscape:zoom="0.44423529" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
 	</sodipodi:namedview>
 <g id="g6" transform="translate(0.000000,850.000000) scale(0.100000,-0.100000)">
-	<path id="path8" fill="#0000D4" d="M100,6405L100,6405l1638.6,997.5L4210,6405l0,0v1995H2155H100V6405z"/>
-	<path id="path10" fill="#AA0000" d="M4310,6405L4310,6405l2380-762.8L8400,6405l0,0v1995H6355H4310V6405z"/>
-	<path id="path12" fill="#00AA00" d="M100,4195.3V100h2055h2055v4095.3v2105L1738.6,7302.5L100,6300.3V4195.3z"/>
-	<path id="path14" fill="#9955FF" d="M4310,4200V100h2045h2045v4100v2105l-1710-762.8L4310,6305V4200z"/>
+	<path id="path8" fill="#C83737" d="M102,5298l3-3102l215-131c118-72,486-296,817-497l602-367l1233,498l1233,498l3,3101l2,3102H2155
+		H100L102,5298z"/>
+	<path id="path10" fill="#C83737" d="M4310,5299V2199l23,7c12,4,281,90,597,191s842,270,1168,374l593,190l312-140
+		c613-274,1372-613,1385-618c9-4,12,619,12,3096v3101H6355H4310V5299z"/>
+	<path id="path12" fill="#008033" d="M5485,2471l-1170-377l-3-997l-2-997h2045h2045l-2,997l-3,998l-160,71
+		c-1249,558-1536,684-1556,683C6666,2848,6129,2678,5485,2471z"/>
+	<path id="path14" fill="#FF6600" d="M100,1095V100h2055h2055v995c0,547-2,995-5,995s-557-223-1231-495c-675-272-1230-495-1234-495
+		c-9,0-1600,967-1614,981c-6,5-14,9-18,9S100,1642,100,1095z"/>
 </g>
 <g transform="translate(0.000000,850.000000) scale(0.100000,-0.100000)">
-	<path fill="#727272" d="M0,4250V0h4250h4250v4250v4250H4250H0V4250z M4210,6405L4210,6405l-2471.4,997.5L100,6405l0,0v1995h2055
-		h2055V6405z M8400,6405L8400,6405l-1710-762.8L4310,6405l0,0v1995h2045h2045V6405z M4210,2205V100H2155H100v2105v4100l1638.6,997.5
-		L4210,6305V2205z M8400,2205V100H6355H4310v2105v4100l2380-762.8L8400,6305V2205z"/>
+	<path d="M0,4250V0h4250h4250v4250v4250H4250H0V4250z M4208,5298l-3-3101l-1233-498l-1233-498l-602,367c-331,201-699,425-817,497
+		l-215,131l-3,3102l-2,3102h2055h2055L4208,5298z M8400,5299c0-2477-3-3100-12-3096c-13,5-772,344-1385,618l-312,140l-593-190
+		c-326-104-852-273-1168-374s-585-187-597-191l-23-7v3100v3101h2045h2045V5299z M7389,2544c377-169,758-338,846-378l160-71l3-998
+		l2-997H6355H4310l2,997l3,997l1170,377c644,207,1181,377,1194,378S7012,2712,7389,2544z M126,2081c14-14,1605-981,1614-981
+		c4,0,559,223,1234,495c674,272,1228,495,1231,495s5-448,5-995V100H2155H100v995c0,547,4,995,8,995S120,2086,126,2081z"/>
 </g>
 </svg>
