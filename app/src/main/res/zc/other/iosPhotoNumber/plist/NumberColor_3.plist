@@ -5768,6 +5768,36 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_07</string>
+			<key>category</key>
+			<string>People</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_08</string>
+			<key>category</key>
+			<string>People</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_09</string>
+			<key>category</key>
+			<string>People</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime6_02</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime6_03</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
