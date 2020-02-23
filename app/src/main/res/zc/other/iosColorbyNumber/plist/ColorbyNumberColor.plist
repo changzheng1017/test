@@ -11157,6 +11157,38 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_04</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_05</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_06</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_07</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
