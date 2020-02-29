@@ -1056,54 +1056,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food7_26</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_27</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_28</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_29</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_30</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_31</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_32</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_33</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_34</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_35</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_36</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food7_37</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>LinePuzzle</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
