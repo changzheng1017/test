@@ -10,37 +10,48 @@
 			<key>category</key>
 			<string>Beauty</string>
 		</dict>
-        <dict>
+		<dict>
 			<key>name</key>
 			<string>test_1</string>
 			<key>category</key>
 			<string>Fashion</string>
 		</dict>
-        <dict>
+		<dict>
 			<key>name</key>
 			<string>test_1</string>
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
-        <dict>
+		<dict>
 			<key>name</key>
 			<string>test_1</string>
 			<key>category</key>
 			<string>Food</string>
 		</dict>
-        <dict>
+		<dict>
 			<key>name</key>
 			<string>test_1</string>
 			<key>category</key>
 			<string>Living</string>
 		</dict>
-        <dict>
+		<dict>
 			<key>name</key>
 			<string>test_1</string>
 			<key>category</key>
 			<string>Nature</string>
 		</dict>
-
+		<dict>
+			<key>name</key>
+			<string>test_OK</string>
+			<key>category</key>
+			<string>Food</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>test_OK_2</string>
+			<key>category</key>
+			<string>Living</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
