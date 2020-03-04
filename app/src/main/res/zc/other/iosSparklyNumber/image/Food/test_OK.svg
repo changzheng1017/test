@@ -7,9 +7,9 @@
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview84" inkscape:current-layer="svg82" inkscape:cx="965.71411" inkscape:cy="855.9997" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="978" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="1" inkscape:zoom="0.83294118" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
 	</sodipodi:namedview>
 <g id="g80" transform="translate(0.000000,0.000000) scale(0.100000,0.100000)">
-	<path id="path4" display="none" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M0,0h4250h4250v4250v4250H4250H0V4250
-		V0z M4302,152c-68,28-78,30-106,18c-166-69-302-87-447-57c-177,37-255,89-285,194c-35,120-3,252,110,458c88,160,110,234,142,479
-		l27,203l-79,147c-111,206-113,209-226,236c-474,116-877,438-1366,1095c-218,293-219,294-133,445c29,51,50,98,47,106s-27,26-53,42
+	<path id="path4" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M0,0h4250h4250v4250v4250H4250H0V4250V0z M4302,152
+		c-68,28-78,30-106,18c-166-69-302-87-447-57c-177,37-255,89-285,194c-35,120-3,252,110,458c88,160,110,234,142,479l27,203l-79,147
+		c-111,206-113,209-226,236c-474,116-877,438-1366,1095c-218,293-219,294-133,445c29,51,50,98,47,106s-27,26-53,42
 		c-200,116-448,301-773,576c-85,72-187,158-227,189c-92,74-113,116-113,218c0,95,20,173,69,274c64,130,171,240,286,296
 		c84,41,109,39,143-12c56-84,76-103,105-95c14,3,38,22,53,42l28,36l-44,36c-81,67-523,487-631,599c-260,272-469,585-469,702
 		c0,23,13,77,30,119c90,233,244,380,474,451c38,12,75,26,83,32c7,6,36,52,64,101c176,307,434,537,770,684c168,74,434,154,513,154
