@@ -5902,6 +5902,50 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>cartoon1_05</string>
+			<key>category</key>
+			<string>Cartoon</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cartoon1_06</string>
+			<key>category</key>
+			<string>Cartoon</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cartoon1_07</string>
+			<key>category</key>
+			<string>Cartoon</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime5_16</string>
+			<key>category</key>
+			<string>Cartoon</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime5_17</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime1_00</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
