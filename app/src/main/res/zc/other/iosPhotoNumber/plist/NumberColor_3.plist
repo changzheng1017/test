@@ -5928,11 +5928,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>anime5_16</string>
+			<string>cartoon1_08</string>
 			<key>category</key>
 			<string>Cartoon</string>
 			<key>model</key>
 			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime5_16</string>
+			<key>category</key>
+			<string>Anime</string>
 		</dict>
 		<dict>
 			<key>name</key>
