@@ -5952,6 +5952,38 @@
 			<key>category</key>
 			<string>Anime</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>cartoon1_09</string>
+			<key>category</key>
+			<string>Cartoon</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cartoon1_10</string>
+			<key>category</key>
+			<string>Cartoon</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cartoon1_11</string>
+			<key>category</key>
+			<string>Cartoon</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cartoon1_12</string>
+			<key>category</key>
+			<string>Cartoon</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
