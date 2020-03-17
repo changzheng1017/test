@@ -1,4 +1,8 @@
 {"category":[
+
+  {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
+  {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
+
   {"appurl":"","count":"56","image":"draw1","name":"Draw Cute Dolls1"},
   {"appurl":"","count":"55","image":"draw2","name":"Draw Cute Dolls2"},
   {"appurl":"","count":"54","image":"draw3","name":"Draw Cute Dolls3"},

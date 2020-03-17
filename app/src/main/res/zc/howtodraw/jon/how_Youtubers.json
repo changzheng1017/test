@@ -1,4 +1,8 @@
 {"category":[
+
+  {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
+  {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
+
   {"appurl":"","count":"23","image":"draw1","name":"Draw Famous Youtubers1"},
   {"appurl":"","count":"39","image":"draw2","name":"Draw Famous Youtubers2"},
   {"appurl":"","count":"38","image":"draw3","name":"Draw Famous Youtubers3"},

@@ -10,6 +10,11 @@
   {"count":"12","image":"draw4","name":"Dogs4"},
   {"count":"14","image":"draw5","name":"Dogs5"},
   {"count":"8","image":"draw6","name":"Dogs6"},
+
+  {"appurl":"unicorn.pony.color.by.number","count":"0","image":"unicornPony","name":"Unicorn & Little Pony"},
+  {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
+
+
   {"count":"7","image":"draw7","name":"Dogs7"},
   {"count":"11","image":"draw8","name":"Dogs8"},
   {"count":"8","image":"draw9","name":"Dogs9"},
