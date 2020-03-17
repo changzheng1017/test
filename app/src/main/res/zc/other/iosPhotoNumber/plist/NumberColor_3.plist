@@ -6036,6 +6036,16 @@
 		<string>p_Holiday</string>
 	</array>
 	<key>Daily</key>
-	<array/>
+	<array>
+		<string>20200311</string>
+		<string>20200312</string>
+		<string>20200313</string>
+		<string>20200314</string>
+		<string>20200315</string>
+		<string>20200316</string>
+		<string>20200317</string>
+		<string>20200318</string>
+		<string>20200319</string>
+	</array>
 </dict>
 </plist>
