@@ -1,5 +1,5 @@
 {"category":[
-    {"appurl":"unicorn.pony.color.by.number","count":"0","image":"unicornPony","name":"Unicorn & Little Pony"},
+    {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
     {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
 
     {"appurl":"","count":"40","image":"draw1","name":"Girl1"}
@@ -9,7 +9,7 @@
     ,{"appurl":"","count":"38","image":"draw5","name":"Girl5"}
     ,{"appurl":"","count":"38","image":"draw6","name":"Girl6"}
 
-    ,{"appurl":"cute.girls.color.by.number","count":"0","image":"ColorGirls","name":"Cute Girls"}
+    ,{"appurl":"unicorn.pony.color.by.number","count":"0","image":"unicornPony","name":"Unicorn & Little Pony"}
     ,{"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"}
 
 
