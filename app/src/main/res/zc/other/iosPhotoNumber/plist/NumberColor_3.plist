@@ -6016,6 +6016,30 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime5_19</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime5_20</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime5_21</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime5_22</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
