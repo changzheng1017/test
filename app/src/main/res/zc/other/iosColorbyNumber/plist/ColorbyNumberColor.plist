@@ -67,6 +67,8 @@
 			<string>Letter</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,6 +133,8 @@
 			<string>Heart</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -195,6 +199,8 @@
 			<string>Oriental</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -259,6 +265,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -323,6 +331,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -387,6 +397,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -451,6 +463,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -515,6 +529,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -579,6 +595,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -643,6 +661,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -707,6 +727,8 @@
 			<string>Cartoon</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -771,6 +793,8 @@
 			<string>Mandala</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -835,6 +859,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -899,6 +925,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -963,6 +991,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1027,6 +1057,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1091,6 +1123,8 @@
 			<string>Letter</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1155,6 +1189,8 @@
 			<string>Letter</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1219,6 +1255,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1283,6 +1321,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1347,6 +1387,8 @@
 			<string>PolyArt</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1411,6 +1453,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1475,6 +1519,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1539,6 +1585,8 @@
 			<string>Cartoon</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1603,6 +1651,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1667,6 +1717,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1731,6 +1783,8 @@
 			<string>Sports</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1795,6 +1849,8 @@
 			<string>Zodiac</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1859,6 +1915,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1923,6 +1981,8 @@
 			<string>Oriental</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1987,6 +2047,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2051,6 +2113,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2115,6 +2179,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2179,6 +2245,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2243,6 +2311,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2307,6 +2377,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2371,6 +2443,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2435,6 +2509,8 @@
 			<string>Zodiac</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2499,6 +2575,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2563,6 +2641,8 @@
 			<string>Oriental</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2627,6 +2707,8 @@
 			<string>Vehicles</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2691,6 +2773,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2748,6 +2832,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2812,6 +2898,8 @@
 			<string>Basic</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2876,6 +2964,8 @@
 			<string>SpecialDates</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2940,6 +3030,8 @@
 			<string>SpecialDates</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3004,6 +3096,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3068,6 +3162,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3132,6 +3228,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3196,6 +3294,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3260,6 +3360,8 @@
 			<string>Heart</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3324,6 +3426,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3388,6 +3492,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3452,6 +3558,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3516,6 +3624,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3580,6 +3690,8 @@
 			<string>Letter</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3644,6 +3756,8 @@
 			<string>Letter</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3708,6 +3822,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3772,6 +3888,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3836,6 +3954,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3900,6 +4020,8 @@
 			<string>Mandala</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3964,6 +4086,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4028,6 +4152,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4092,6 +4218,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4156,6 +4284,8 @@
 			<string>Vehicles</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4220,6 +4350,8 @@
 			<string>Basic</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4284,6 +4416,8 @@
 			<string>Vehicles</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4348,6 +4482,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4412,6 +4548,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4476,6 +4614,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4540,6 +4680,8 @@
 			<string>SpecialDates</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4604,6 +4746,8 @@
 			<string>SpecialDates</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4668,6 +4812,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4732,6 +4878,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4796,6 +4944,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4868,6 +5018,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4932,6 +5084,8 @@
 			<string>Sports</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4996,6 +5150,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5060,6 +5216,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5124,6 +5282,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5188,6 +5348,8 @@
 			<string>Scenery</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5252,6 +5414,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5316,6 +5480,8 @@
 			<string>Scenery</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5380,6 +5546,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5444,6 +5612,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5508,6 +5678,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5572,6 +5744,8 @@
 			<string>SlowLife</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5636,6 +5810,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5700,6 +5876,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5764,6 +5942,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5828,6 +6008,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5892,6 +6074,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5956,6 +6140,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6020,6 +6206,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6084,6 +6272,8 @@
 			<string>Scenery</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6148,6 +6338,8 @@
 			<string>Scenery</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6212,6 +6404,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6276,6 +6470,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6340,6 +6536,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6404,6 +6602,8 @@
 			<string>SlowLife</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6468,6 +6668,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6532,6 +6734,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6596,6 +6800,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6660,6 +6866,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6724,6 +6932,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6788,6 +6998,8 @@
 			<string>Cartoon</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6852,6 +7064,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6916,6 +7130,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6980,6 +7196,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7044,6 +7262,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7108,6 +7328,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7172,6 +7394,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7236,6 +7460,8 @@
 			<string>Basic</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7300,6 +7526,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7364,6 +7592,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7428,6 +7658,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7492,6 +7724,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7556,6 +7790,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7620,6 +7856,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7684,6 +7922,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7748,6 +7988,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7812,6 +8054,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7876,6 +8120,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -7940,6 +8186,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8004,6 +8252,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8068,6 +8318,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8132,6 +8384,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8196,6 +8450,8 @@
 			<string>SlowLife</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8260,6 +8516,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8324,6 +8582,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8388,6 +8648,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8452,6 +8714,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8516,6 +8780,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8580,6 +8846,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8644,6 +8912,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8708,6 +8978,8 @@
 			<string>Basic</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8772,6 +9044,8 @@
 			<string>Bible</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8836,6 +9110,8 @@
 			<string>Scenery</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8900,6 +9176,8 @@
 			<string>Florals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8964,6 +9242,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9028,6 +9308,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9092,6 +9374,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9156,6 +9440,8 @@
 			<string>Basic</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9220,6 +9506,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9284,6 +9572,8 @@
 			<string>Food</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9348,6 +9638,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9412,6 +9704,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9476,6 +9770,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9540,6 +9836,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9604,6 +9902,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9668,6 +9968,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
