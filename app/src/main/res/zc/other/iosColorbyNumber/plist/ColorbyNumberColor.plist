@@ -9732,6 +9732,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9796,6 +9798,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9860,6 +9864,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9924,6 +9930,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9988,6 +9996,8 @@
 			<string>Scenery</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10052,6 +10062,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10116,6 +10128,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10180,6 +10194,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10244,6 +10260,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10308,6 +10326,8 @@
 			<string>SpecialDates</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10372,6 +10392,8 @@
 			<string>Basic</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10436,6 +10458,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10500,6 +10524,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10564,6 +10590,8 @@
 			<string>SpecialDates</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10628,6 +10656,8 @@
 			<string>Basic</string>
 			<key>model</key>
 			<string>old</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10692,6 +10722,8 @@
 			<string>SpecialDates</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10756,6 +10788,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10820,6 +10854,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10884,6 +10920,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -10948,6 +10986,8 @@
 			<string>Sports</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -11012,6 +11052,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -11076,6 +11118,8 @@
 			<string>CuteAnime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -11140,6 +11184,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -11204,6 +11250,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -11268,6 +11316,8 @@
 			<string>Cartoon</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -11332,6 +11382,8 @@
 			<string>Anime</string>
 			<key>model</key>
 			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -11396,6 +11448,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -11460,6 +11514,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
