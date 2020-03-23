@@ -9,6 +9,8 @@
 			<string>anime1_00</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
