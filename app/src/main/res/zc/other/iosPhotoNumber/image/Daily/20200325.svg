@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" baseProfile="tiny" id="图层_1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 967.7 1033.7"
-	 xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="967.7px"
+	 height="1033.7px" viewBox="0 0 967.7 1033.7" xml:space="preserve">
+<rect fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="967.7" height="1033.7"/>
 <g>
 	<polygon fill="#879CAC" points="323.9,950 321.4,965.6 385.7,953.6 	"/>
 	<polygon fill="#BFCFDD" points="385.7,953.6 321.4,965.6 334.3,1022 	"/>
@@ -275,7 +276,7 @@
 	<polygon fill="#332522" points="645.7,52 644.8,52.9 645.6,52.2 	"/>
 	<polygon fill="#3D302C" points="700.4,46.8 645.8,52.1 636.8,80.4 	"/>
 	<polygon fill="#534038" points="700.4,46.8 636.8,80.4 718.1,68.9 	"/>
-	<polygon fill="#302320" points="528.6,159.7 509.5,184.8 556.5,142.7 552.1,128.8 528.6,159.7 	"/>
+	<polygon fill="#302320" points="528.6,159.7 509.5,184.8 556.5,142.7 552.1,128.8 	"/>
 	<polygon fill="#281F1E" points="645.6,52.3 645.8,52.1 645.6,52.2 644.8,52.9 552.1,128.8 556.5,142.7 	"/>
 	<polygon fill="#2B1E1D" points="556.5,142.7 509.5,184.8 515.2,232.8 	"/>
 	<polygon fill="#1F1616" points="476,340.4 515.2,232.8 509.5,184.8 479.6,247.6 	"/>
