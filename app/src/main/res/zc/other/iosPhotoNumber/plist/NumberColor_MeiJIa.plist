@@ -540,14 +540,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>food4_18</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_19</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food4_20</string>
 		</dict>
 		<dict>
@@ -556,31 +548,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>food4_22</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_23</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_24</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_25</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food4_26</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>food4_27</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_28</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1381,14 +1353,6 @@
 		<dict>
 			<key>name</key>
 			<string>girls5_19</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>people1_6</string>
-			<key>category</key>
-			<string>People</string>
-			<key>model</key>
-			<string>oil</string>
 		</dict>
 		<dict>
 			<key>name</key>
