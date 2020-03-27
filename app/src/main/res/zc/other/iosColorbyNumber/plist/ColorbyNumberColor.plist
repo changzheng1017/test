@@ -12221,6 +12221,74 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_08</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_09</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_10</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_11</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_12</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_13</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_14</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime5_15</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
