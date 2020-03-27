@@ -6220,15 +6220,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>girls5_09</string>
-			<key>category</key>
-			<string>People</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>cuteAnime6_02</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_09</string>
+			<key>category</key>
+			<string>People</string>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -6290,7 +6290,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>people1_4</string>
+			<string>people1_5</string>
 			<key>category</key>
 			<string>People</string>
 			<key>ads</key>
@@ -6300,7 +6300,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>people1_5</string>
+			<string>people1_4</string>
 			<key>category</key>
 			<string>People</string>
 			<key>model</key>
