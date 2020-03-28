@@ -6,26 +6,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>anime5_23</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime5_24</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime5_25</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime6_00</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime6_01</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime6_02</string>
 		</dict>
 		<dict>
@@ -1314,14 +1294,6 @@
 	</array>
 	<key>e_Girls</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>girls5_10</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>girls5_11</string>
-		</dict>
 		<dict>
 			<key>name</key>
 			<string>girls5_12</string>

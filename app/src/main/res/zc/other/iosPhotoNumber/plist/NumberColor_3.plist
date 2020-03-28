@@ -6582,6 +6582,40 @@
 			<key>category</key>
 			<string>Anime</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>food7_27</string>
+			<key>category</key>
+			<string>FoodDrink</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food7_28</string>
+			<key>category</key>
+			<string>FoodDrink</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_11</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_10</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
