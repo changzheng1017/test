@@ -6650,6 +6650,36 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>food4_26</string>
+			<key>category</key>
+			<string>FoodDrink</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food4_27</string>
+			<key>category</key>
+			<string>FoodDrink</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>people1_8</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>people1_7</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

@@ -520,22 +520,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>food4_20</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_21</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_26</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>food4_27</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food4_29</string>
 		</dict>
 		<dict>
@@ -1325,22 +1309,6 @@
 		<dict>
 			<key>name</key>
 			<string>girls5_19</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>people1_7</string>
-			<key>category</key>
-			<string>People</string>
-			<key>model</key>
-			<string>oil</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>people1_8</string>
-			<key>category</key>
-			<string>People</string>
-			<key>model</key>
-			<string>oil</string>
 		</dict>
 		<dict>
 			<key>name</key>
