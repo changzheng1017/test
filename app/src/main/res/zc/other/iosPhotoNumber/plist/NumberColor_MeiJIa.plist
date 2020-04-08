@@ -191,90 +191,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>cuteAnime6_04</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_05</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_06</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_07</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_08</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_09</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_10</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_11</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_12</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_13</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_14</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_15</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_16</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_17</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_18</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_19</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime6_20</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_00</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_01</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_02</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_03</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>cuteAnime7_04</string>
 		</dict>
 		<dict>
@@ -287,10 +203,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>cuteAnime7_07</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>cuteAnime7_08</string>
 		</dict>
 		<dict>
@@ -300,14 +212,6 @@
 		<dict>
 			<key>name</key>
 			<string>cuteAnime7_10</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_11</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_12</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -339,19 +243,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>cuteAnime7_20</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>cuteAnime8_00</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>cuteAnime8_01</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime8_02</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -399,10 +295,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>cuteAnime8_14</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>cuteAnime8_15</string>
 		</dict>
 		<dict>
@@ -419,10 +311,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>cuteAnime8_19</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>cuteAnime8_20</string>
 		</dict>
 		<dict>
@@ -436,18 +324,6 @@
 		<dict>
 			<key>name</key>
 			<string>cuteAnime9_02</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime9_03</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime9_04</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime9_05</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -475,19 +351,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>cuteAnime9_12</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>cuteAnime9_13</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime9_14</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime9_15</string>
 		</dict>
 		<dict>
 			<key>name</key>
