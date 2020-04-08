@@ -702,12 +702,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>beauty_20</string>
-			<key>category</key>
-			<string>Beauty</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>food_16</string>
 			<key>category</key>
 			<string>Food</string>
@@ -864,12 +858,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>nature_22</string>
-			<key>category</key>
-			<string>Nature</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>beauty_17</string>
 			<key>category</key>
 			<string>Beauty</string>
@@ -895,12 +883,6 @@
 		<dict>
 			<key>name</key>
 			<string>food_20</string>
-			<key>category</key>
-			<string>Food</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Beauty</string>
 			<key>category</key>
 			<string>Food</string>
 		</dict>
