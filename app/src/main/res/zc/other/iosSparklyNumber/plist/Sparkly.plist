@@ -1180,18 +1180,24 @@
 				<string>nature_22</string>
 				<key>category</key>
 				<string>Nature</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
 				<string>beauty_19</string>
 				<key>category</key>
 				<string>Beauty</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
 				<string>beauty_17</string>
 				<key>category</key>
 				<string>Beauty</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -1210,12 +1216,16 @@
 				<string>nature_19</string>
 				<key>category</key>
 				<string>Nature</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
 				<string>food_20</string>
 				<key>category</key>
 				<string>Food</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 		</array>
 	</dict>
