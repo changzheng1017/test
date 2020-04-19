@@ -15,12 +15,16 @@
 			<string>living_20</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_04</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -39,18 +43,24 @@
 			<string>living_12</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>food_05</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_04</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -69,18 +79,24 @@
 			<string>living_05</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_18</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_13</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -99,18 +115,24 @@
 			<string>fashion_09</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_10</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_08</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -129,18 +151,24 @@
 			<string>beauty_01</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_07</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>food_09</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -159,18 +187,24 @@
 			<string>fashion_08</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>beauty_08</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_15</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -189,18 +223,24 @@
 			<string>fashion_14</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>animal_01</string>
 			<key>category</key>
 			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_04</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -219,18 +259,24 @@
 			<string>food_10</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_20</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_02</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -249,18 +295,24 @@
 			<string>animal_06</string>
 			<key>category</key>
 			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>beauty_07</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>food_03</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -279,18 +331,24 @@
 			<string>beauty_06</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>animal_07</string>
 			<key>category</key>
 			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_23</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -309,18 +367,24 @@
 			<string>living_19</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>food_02</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_26</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -339,18 +403,24 @@
 			<string>fashion_00</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_09</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_21</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -369,18 +439,24 @@
 			<string>living_22</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_17</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_09</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -399,18 +475,24 @@
 			<string>fashion_16</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_14</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_07</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -429,18 +511,24 @@
 			<string>beauty_03</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_11</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>beauty_09</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -459,18 +547,24 @@
 			<string>beauty_15</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_03</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_00</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -489,18 +583,24 @@
 			<string>living_27</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_12</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>animal_03</string>
 			<key>category</key>
 			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -519,18 +619,24 @@
 			<string>food_11</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_18</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>animal_11</string>
 			<key>category</key>
 			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -549,18 +655,24 @@
 			<string>fashion_21</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_15</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>beauty_11</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -579,18 +691,24 @@
 			<string>fashion_11</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_01</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_22</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -609,18 +727,24 @@
 			<string>food_06</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>beauty_00</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_03</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -639,18 +763,24 @@
 			<string>nature_06</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>living_17</string>
 			<key>category</key>
 			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>food_01</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -669,18 +799,24 @@
 			<string>beauty_10</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_19</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_16</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -699,18 +835,24 @@
 			<string>beauty_20</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>food_16</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_23</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -729,18 +871,24 @@
 			<string>food_17</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_29</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_21</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -759,18 +907,24 @@
 			<string>beauty_21</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>food_15</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_25</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -789,18 +943,24 @@
 			<string>food_22</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>nature_18</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_31</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -819,18 +979,24 @@
 			<string>food_21</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>beauty_23</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_27</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -849,18 +1015,24 @@
 			<string>nature_22</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>beauty_19</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>beauty_17</string>
 			<key>category</key>
 			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -879,18 +1051,24 @@
 			<string>nature_19</string>
 			<key>category</key>
 			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>food_20</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>animal_18</string>
 			<key>category</key>
 			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -909,12 +1087,16 @@
 			<string>food_19</string>
 			<key>category</key>
 			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashion_23</string>
 			<key>category</key>
 			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
