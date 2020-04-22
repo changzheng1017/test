@@ -1067,7 +1067,7 @@
 			<string>animal_18</string>
 			<key>category</key>
 			<string>Animals</string>
-			<key>ads</key>
+			<key>store</key>
 			<string>yes</string>
 		</dict>
 		<dict>
@@ -1095,7 +1095,7 @@
 			<string>fashion_23</string>
 			<key>category</key>
 			<string>Fashion</string>
-			<key>ads</key>
+			<key>store</key>
 			<string>yes</string>
 		</dict>
 		<dict>
