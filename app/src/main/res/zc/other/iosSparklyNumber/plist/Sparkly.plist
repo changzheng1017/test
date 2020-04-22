@@ -1224,7 +1224,7 @@
 				<string>food_20</string>
 				<key>category</key>
 				<string>Food</string>
-				<key>ads</key>
+				<key>store</key>
 				<string>yes</string>
 			</dict>
 		</array>
