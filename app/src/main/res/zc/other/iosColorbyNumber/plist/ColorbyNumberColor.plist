@@ -12425,6 +12425,22 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_12</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_13</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
@@ -12486,7 +12502,7 @@
 				<key>start</key>
 				<string>2020-04-4</string>
 				<key>end</key>
-				<string>2020-05-4</string>
+				<string>2020-05-9</string>
 			</dict>
 		</array>
 	</dict>

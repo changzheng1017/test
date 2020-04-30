@@ -6770,6 +6770,22 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_12</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girls5_13</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
