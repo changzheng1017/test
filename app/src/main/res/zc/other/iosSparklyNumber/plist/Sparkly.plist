@@ -13,7 +13,7 @@
 		<dict>
 			<key>name</key>
 			<string>living_20</string>
-			<key>store</key>
+			<key>category</key>
 			<string>Living</string>
 			<key>ads</key>
 			<string>yes</string>
