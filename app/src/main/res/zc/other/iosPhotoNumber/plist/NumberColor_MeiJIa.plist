@@ -1205,39 +1205,6 @@
 	<key>g_Flower</key>
 	<array/>
 	<key>g_Travel</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>travel1_38</string>
-			<key>category</key>
-			<string>Travel</string>
-			<key>model</key>
-			<string>oil</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>travel1_39</string>
-			<key>category</key>
-			<string>Travel</string>
-			<key>model</key>
-			<string>oil</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>travel1_40</string>
-			<key>category</key>
-			<string>Travel</string>
-			<key>model</key>
-			<string>oil</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>travel1_41</string>
-			<key>category</key>
-			<string>Travel</string>
-			<key>model</key>
-			<string>oil</string>
-		</dict>
-	</array>
+	<array/>
 </dict>
 </plist>
