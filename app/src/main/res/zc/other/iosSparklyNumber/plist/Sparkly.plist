@@ -1138,6 +1138,12 @@
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>beauty_24</string>
+			<key>category</key>
+			<string>Beauty</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
