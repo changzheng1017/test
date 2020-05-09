@@ -1144,6 +1144,28 @@
 			<key>category</key>
 			<string>Beauty</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>beauty_25</string>
+			<key>category</key>
+			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_25</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_26</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
