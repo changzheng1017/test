@@ -1166,6 +1166,28 @@
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_29</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_28</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_27</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
