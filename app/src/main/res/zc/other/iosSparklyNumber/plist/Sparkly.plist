@@ -1300,6 +1300,57 @@
 				<string>Fashion</string>
 			</dict>
 		</array>
+		<key>0511</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>living_20</string>
+				<key>category</key>
+				<string>Living</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_09</string>
+				<key>category</key>
+				<string>Animals</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beauty_04</string>
+				<key>category</key>
+				<string>Beauty</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>fashion_08</string>
+				<key>category</key>
+				<string>Fashion</string>
+				<key>store</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>food_15</string>
+				<key>category</key>
+				<string>Food</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_05</string>
+				<key>category</key>
+				<string>Animals</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>food_13</string>
+				<key>category</key>
+				<string>Food</string>
+			</dict>
+		</array>
 	</dict>
 </dict>
 </plist>
