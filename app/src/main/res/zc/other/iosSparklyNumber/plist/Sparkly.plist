@@ -1238,6 +1238,34 @@
 			<key>category</key>
 			<string>Nature</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>beauty_31</string>
+			<key>category</key>
+			<string>Beauty</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_27</string>
+			<key>category</key>
+			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>beauty_30</string>
+			<key>category</key>
+			<string>Beauty</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_28</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
