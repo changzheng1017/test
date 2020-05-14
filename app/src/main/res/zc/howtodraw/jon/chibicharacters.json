@@ -1,18 +1,10 @@
 {"category":[
 
-    {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
-    {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
-
 
     {"appurl":"","count":"22","image":"draw1","name":"Chibi Characters1"},
     {"appurl":"","count":"18","image":"draw2","name":"Chibi Characters2"},
     {"appurl":"","count":"14","image":"draw3","name":"Chibi Characters3"},
     {"appurl":"","count":"18","image":"draw4","name":"Chibi Characters4"},
-
-    {"appurl":"unicorn.pony.color.by.number","count":"0","image":"unicornPony","name":"Unicorn & Little Pony"},
-    {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
-
-
 
 
     {"appurl":"","count":"16","image":"draw5","name":"Chibi Characters5"},
@@ -21,10 +13,6 @@
     {"appurl":"","count":"14","image":"draw8","name":"Chibi Characters8"},
 
 
-    {"appurl":"cute.food.color.by.number","count":"0","image":"ColorFoodDrink","name":"Food Drink"},
-    {"appurl":"com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterDress","name":"Dress Glitter"},
-
- 
 
     {"appurl":"","count":"18","image":"draw9","name":"Chibi Characters9"},
     {"appurl":"","count":"10","image":"draw10","name":"Chibi Characters10"}]}
