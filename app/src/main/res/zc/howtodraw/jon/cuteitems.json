@@ -1,17 +1,11 @@
 {"category":[
 
-    {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
-    {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
-
     {"appurl":"","count":"8","image":"draw1","name":"Cute Items 1"},
     {"appurl":"","count":"7","image":"draw2","name":"Cute Items 2"},
     {"appurl":"","count":"8","image":"draw3","name":"Cute Items 3"},
     {"appurl":"","count":"7","image":"draw4","name":"Cute Items 4"},
     {"appurl":"","count":"8","image":"draw5","name":"Cute Items 5"},
     {"appurl":"","count":"6","image":"draw6","name":"Cute Items 6"},
-
-    {"appurl":"unicorn.pony.color.by.number","count":"0","image":"unicornPony","name":"Unicorn & Little Pony"},
-    {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
 
 
 
@@ -22,11 +16,6 @@
     {"appurl":"","count":"6","image":"draw11","name":"Cute Items 11"},
     {"appurl":"","count":"8","image":"draw12","name":"Cute Items 12"},
 
-
-    {"appurl":"cute.food.color.by.number","count":"0","image":"ColorFoodDrink","name":"Food Drink"},
-    {"appurl":"com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterDress","name":"Dress Glitter"},
-
-    
 
     {"appurl":"","count":"6","image":"draw13","name":"Cute Items 13"},
     {"appurl":"","count":"5","image":"draw14","name":"Cute Items 14"},
