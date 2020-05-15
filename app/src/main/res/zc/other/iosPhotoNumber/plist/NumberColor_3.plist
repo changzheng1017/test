@@ -6958,6 +6958,34 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>vehicles1_22</string>
+			<key>category</key>
+			<string>Vehicles</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>vehicles1_20</string>
+			<key>category</key>
+			<string>Vehicles</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_45</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_44</string>
+			<key>category</key>
+			<string>Travel</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>GlitterPaintting1</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1508864104</string>
