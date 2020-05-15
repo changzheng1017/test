@@ -12588,6 +12588,8 @@
 			<string>vehicles1_22</string>
 			<key>category</key>
 			<string>Vehicles</string>
+			<key>model</key>
+			<string>oil</string>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -12596,12 +12598,16 @@
 			<string>vehicles1_20</string>
 			<key>category</key>
 			<string>Vehicles</string>
+			<key>model</key>
+			<string>oil</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>travel1_45</string>
 			<key>category</key>
 			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -12610,6 +12616,8 @@
 			<string>travel1_44</string>
 			<key>category</key>
 			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
 		</dict>
 		<dict>
 			<key>name</key>
