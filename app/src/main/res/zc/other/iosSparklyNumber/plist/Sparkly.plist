@@ -1302,6 +1302,42 @@
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_35</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>living_30</string>
+			<key>category</key>
+			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_31</string>
+			<key>category</key>
+			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_29</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_32</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
