@@ -1338,6 +1338,42 @@
 			<key>category</key>
 			<string>Nature</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashion_36</string>
+			<key>category</key>
+			<string>Fashion</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashion_32</string>
+			<key>category</key>
+			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>living_31</string>
+			<key>category</key>
+			<string>Living</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>living_28</string>
+			<key>category</key>
+			<string>Living</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>living_29</string>
+			<key>category</key>
+			<string>Living</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
