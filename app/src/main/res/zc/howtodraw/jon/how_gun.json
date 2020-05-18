@@ -1,10 +1,6 @@
 {"category":[
 
 
-  {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
-  {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
-
-
 
   {"appurl":"","count":"8","image":"draw1","name":"Guns1"},
   {"appurl":"","count":"16","image":"draw2","name":"Guns2"},
@@ -14,11 +10,6 @@
   {"appurl":"","count":"14","image":"draw6","name":"Guns6"},
 
 
-  {"appurl":"unicorn.pony.color.by.number","count":"0","image":"unicornPony","name":"Unicorn & Little Pony"},
-  {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
-
-
-
 
   {"appurl":"","count":"14","image":"draw7","name":"Guns7"},
   {"appurl":"","count":"16","image":"draw8","name":"Guns8"},
@@ -26,14 +17,6 @@
   {"appurl":"","count":"13","image":"draw10","name":"Guns10"},
   {"appurl":"","count":"14","image":"draw11","name":"Guns11"},
   {"appurl":"","count":"17","image":"draw12","name":"Guns12"},
-
-
-
-
-
-  {"appurl":"cute.food.color.by.number","count":"0","image":"ColorFoodDrink","name":"Food Drink"},
-  {"appurl":"com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterDress","name":"Dress Glitter"},
-
 
 
 
