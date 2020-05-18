@@ -1410,6 +1410,42 @@
 			<key>category</key>
 			<string>Living</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashion_34</string>
+			<key>category</key>
+			<string>Fashion</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food_23</string>
+			<key>category</key>
+			<string>Food</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_36</string>
+			<key>category</key>
+			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_37</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>beauty_29</string>
+			<key>category</key>
+			<string>Beauty</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
