@@ -1,8 +1,5 @@
 {"category":[
 
-  {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
-  {"appurl":"kawaii.anime.color.by.number","count":"0","image":"KawaiiAnime","name":"Kawaii Anime"},
-
 
   {"appurl":"","count":"16","image":"draw1","name":"Sweet Drink 1"},
   {"appurl":"","count":"10","image":"draw2","name":"Sweet Drink 2"},
@@ -10,11 +7,6 @@
   {"appurl":"","count":"14","image":"draw4","name":"Sweet Drink 4"},
   {"appurl":"","count":"10","image":"draw5","name":"Sweet Drink 5"},
   {"appurl":"","count":"11","image":"draw6","name":"Sweet Drink 6"},
-
-
-
-  {"appurl":"unicorn.pony.color.by.number","count":"0","image":"unicornPony","name":"Unicorn & Little Pony"},
-  {"appurl":"com.anime.color.by.number","count":"0","image":"ColorAnime1","name":"Anime Number"},
 
 
 
@@ -26,13 +18,6 @@
   {"appurl":"","count":"13","image":"draw10","name":"Sweet Drink 10"},
   {"appurl":"","count":"10","image":"draw11","name":"Sweet Drink 11"},
   {"appurl":"","count":"12","image":"draw12","name":"Sweet Drink 12"},
-
-
-
-
-  {"appurl":"cute.food.color.by.number","count":"0","image":"ColorFoodDrink","name":"Food Drink"},
-  {"appurl":"com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book","count":"0","image":"GlitterDress","name":"Dress Glitter"},
-
 
 
 
