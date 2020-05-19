@@ -1446,6 +1446,42 @@
 			<key>category</key>
 			<string>Beauty</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashion_33</string>
+			<key>category</key>
+			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_35</string>
+			<key>category</key>
+			<string>Nature</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_38</string>
+			<key>category</key>
+			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_39</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food_24</string>
+			<key>category</key>
+			<string>Food</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
