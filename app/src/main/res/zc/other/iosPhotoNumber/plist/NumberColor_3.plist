@@ -3393,6 +3393,8 @@
 			<string>cuteAnime3_35</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3419,6 +3421,8 @@
 			<string>girls4_14</string>
 			<key>category</key>
 			<string>People</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3445,6 +3449,8 @@
 			<string>unicorn4_10</string>
 			<key>category</key>
 			<string>Cartoon</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3457,6 +3463,8 @@
 			<string>anime4_06</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3501,6 +3509,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3541,6 +3551,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3561,6 +3573,8 @@
 			<string>food3_21</string>
 			<key>category</key>
 			<string>FoodDrink</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3603,6 +3617,8 @@
 			<string>Flower</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3629,6 +3645,8 @@
 			<string>SlowLife</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3645,6 +3663,8 @@
 			<string>SlowLife</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3689,6 +3709,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3731,6 +3753,8 @@
 			<string>Vehicles</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3765,6 +3789,8 @@
 			<string>Sports</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3799,6 +3825,8 @@
 			<string>anime4_14</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3825,6 +3853,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3855,6 +3885,8 @@
 			<string>cuteAnime4_01</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3881,6 +3913,8 @@
 			<string>cuteAnime4_05</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3913,6 +3947,8 @@
 			<string>cuteAnime4_10</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3939,6 +3975,8 @@
 			<string>girls4_17</string>
 			<key>category</key>
 			<string>People</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3947,6 +3985,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3991,6 +4031,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4023,6 +4065,8 @@
 			<string>animals4_16</string>
 			<key>category</key>
 			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4057,6 +4101,8 @@
 			<string>Flower</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4073,6 +4119,8 @@
 			<string>SlowLife</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4125,6 +4173,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4167,6 +4217,8 @@
 			<string>Vehicles</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4193,6 +4245,8 @@
 			<string>Sports</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4227,6 +4281,8 @@
 			<string>anime4_18</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4253,6 +4309,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4295,6 +4353,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4317,6 +4377,8 @@
 			<string>travel1_10</string>
 			<key>category</key>
 			<string>Travel</string>
+			<key>ads</key>
+			<string>yes</string>
 			<key>model</key>
 			<string>oil</string>
 		</dict>
@@ -4353,6 +4415,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4379,6 +4443,8 @@
 			<string>food3_29</string>
 			<key>category</key>
 			<string>FoodDrink</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4395,6 +4461,8 @@
 			<string>Flower</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4449,6 +4517,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4473,6 +4543,8 @@
 			<string>girls4_19</string>
 			<key>category</key>
 			<string>People</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4507,6 +4579,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4537,6 +4611,8 @@
 			<string>SlowLife</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4571,6 +4647,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4587,6 +4665,8 @@
 			<string>Sports</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4633,6 +4713,8 @@
 			<string>anime4_24</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4665,6 +4747,8 @@
 			<string>cuteAnime4_14</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4691,6 +4775,8 @@
 			<string>cuteAnime4_18</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4705,6 +4791,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4753,6 +4841,8 @@
 			<string>food3_33</string>
 			<key>category</key>
 			<string>FoodDrink</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4781,6 +4871,8 @@
 			<string>Flower</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4823,6 +4915,8 @@
 			<string>SlowLife</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4851,6 +4945,8 @@
 			<string>anime4_27</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4877,6 +4973,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4893,6 +4991,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4939,6 +5039,8 @@
 			<string>Ocean</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4981,6 +5083,8 @@
 			<string>Vehicles</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5007,6 +5111,8 @@
 			<string>Sports</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5041,6 +5147,8 @@
 			<string>cuteAnime4_23</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5075,6 +5183,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5101,6 +5211,8 @@
 			<string>Flower</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5143,6 +5255,8 @@
 			<string>SlowLife</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5169,6 +5283,8 @@
 			<string>Vehicles</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5189,6 +5305,8 @@
 			<string>cuteAnime4_26</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5209,6 +5327,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5261,6 +5381,8 @@
 			<string>Sports</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5297,6 +5419,8 @@
 			<string>cuteAnime4_31</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5323,6 +5447,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5339,6 +5465,8 @@
 			<string>Vehicles</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5383,6 +5511,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5403,6 +5533,8 @@
 			<string>cuteAnime4_32</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5447,6 +5579,8 @@
 			<string>Holiday</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5479,6 +5613,8 @@
 			<string>cuteAnime5_00</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5505,6 +5641,8 @@
 			<string>cuteAnime5_04</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5547,6 +5685,8 @@
 			<string>Holiday</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5565,6 +5705,8 @@
 			<string>Holiday</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5605,6 +5747,8 @@
 			<string>anime5_00</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5631,6 +5775,8 @@
 			<string>anime5_04</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5643,6 +5789,8 @@
 			<string>anime5_06</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5683,6 +5831,8 @@
 			<string>cuteAnime5_08</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5695,6 +5845,8 @@
 			<string>cuteAnime5_10</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5745,6 +5897,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5779,6 +5933,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5797,6 +5953,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5829,6 +5987,8 @@
 			<string>anime5_08</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5855,6 +6015,8 @@
 			<string>anime5_12</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5887,6 +6049,8 @@
 			<string>girls5_03</string>
 			<key>category</key>
 			<string>People</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5913,6 +6077,8 @@
 			<string>Holiday</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5951,6 +6117,8 @@
 			<string>food4_04</string>
 			<key>category</key>
 			<string>FoodDrink</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5971,6 +6139,8 @@
 			<string>food4_17</string>
 			<key>category</key>
 			<string>FoodDrink</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6003,6 +6173,8 @@
 			<string>girls5_05</string>
 			<key>category</key>
 			<string>People</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6027,6 +6199,8 @@
 			<string>Sports</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6063,6 +6237,8 @@
 			<string>cuteAnime5_21</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6085,6 +6261,8 @@
 			<string>flowerA_76</string>
 			<key>category</key>
 			<string>Flower</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6121,6 +6299,8 @@
 			<string>cuteAnime6_00</string>
 			<key>category</key>
 			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6145,6 +6325,8 @@
 			<string>Holiday</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6187,6 +6369,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6211,6 +6395,8 @@
 			<string>girls5_07</string>
 			<key>category</key>
 			<string>People</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6245,6 +6431,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6271,6 +6459,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6305,6 +6495,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6339,6 +6531,8 @@
 			<string>Cartoon</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6355,6 +6549,8 @@
 			<string>Cartoon</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6409,6 +6605,8 @@
 			<string>Cartoon</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6435,6 +6633,8 @@
 			<string>Cartoon</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6469,6 +6669,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6503,6 +6705,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6521,6 +6725,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6567,6 +6773,8 @@
 			<string>anime5_24</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6581,6 +6789,8 @@
 			<string>anime6_01</string>
 			<key>category</key>
 			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6631,6 +6841,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6661,6 +6873,8 @@
 			<string>food4_27</string>
 			<key>category</key>
 			<string>FoodDrink</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6669,6 +6883,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6713,6 +6929,8 @@
 			<string>Cartoon</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6751,6 +6969,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6777,6 +6997,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6819,6 +7041,8 @@
 			<string>Flower</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
