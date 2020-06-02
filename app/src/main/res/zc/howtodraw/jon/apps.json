@@ -1,4 +1,35 @@
-{"myApps":[
+{"myApps":[{"appurl":"https://play.google.com/store/apps/details?id=com.draw.cutegirl","image":"Girl","name":"How to draw girls"},
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.animecartoon","image":"Anime","name":"How to Draw Anime"},
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.cuteanimal","image":"CuteAnimal","name":"Cute Animal"},
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.dogscats","image":"DogsAndCats","name":"Dogs And Cats"},
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.cutedolls","image":"CuteDolls","name":"Cute Dolls"},
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.cutefamous","image":"CuteFamous","name":"draw Cute Famous"},
 
 
-]}
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.cuteitems","image":"CuteItems","name":"How To Draw Cute Items"},
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.unicorns","image":"Unicorns","name":"How to draw unicorns"},
+
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.tattoos","image":"AnimalTattoos","name":"Draw Animal Tattoos"},
+
+
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.animeeyes","image":"AnimeEyes","name":"Draw Anime Eyes"},
+
+
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.cutesweetdrink","image":"SweetDrink","name":"Cute Sweet Drink"},
+
+
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.hair","image":"HairStyle","name":"Draw Hair Style"},
+
+
+  {"appurl":"https://play.google.com/store/apps/details?id=com.howdraw.gun","image":"Guns","name":"How to draw Guns"}]}
