@@ -1770,6 +1770,42 @@
 			<key>category</key>
 			<string>Food</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_47</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashion_43</string>
+			<key>category</key>
+			<string>Fashion</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food_36</string>
+			<key>category</key>
+			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food_37</string>
+			<key>category</key>
+			<string>Food</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashion_42</string>
+			<key>category</key>
+			<string>Fashion</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
@@ -2035,6 +2071,57 @@
 				<string>Fashion</string>
 				<key>ads</key>
 				<string>yes</string>
+			</dict>
+		</array>
+		<key>0601</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>living_20</string>
+				<key>category</key>
+				<string>Living</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>food_08</string>
+				<key>category</key>
+				<string>Food</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>fashion_04</string>
+				<key>category</key>
+				<string>Fashion</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beauty_14</string>
+				<key>category</key>
+				<string>Beauty</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>food_14</string>
+				<key>category</key>
+				<string>Food</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>living_07</string>
+				<key>category</key>
+				<string>Living</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>nature_02</string>
+				<key>category</key>
+				<string>Nature</string>
 			</dict>
 		</array>
 	</dict>
