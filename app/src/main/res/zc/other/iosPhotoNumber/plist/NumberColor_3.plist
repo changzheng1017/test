@@ -7374,6 +7374,32 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>anime6_16</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime6_17</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime6_19</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime6_18</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>GlitterPaintting</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1508864104</string>
