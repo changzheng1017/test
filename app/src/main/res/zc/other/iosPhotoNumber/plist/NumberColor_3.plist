@@ -7456,6 +7456,26 @@
 		<string>20200604</string>
 		<string>20200605</string>
 		<string>20200606</string>
+		<string>20200607</string>
+		<string>20200608</string>
+		<string>20200609</string>
+		<string>20200610</string>
+		<string>20200611</string>
+		<string>20200612</string>
+		<string>20200613</string>
+		<string>20200614</string>
+		<string>20200615</string>
+		<string>20200616</string>
+		<string>20200617</string>
+		<string>20200618</string>
+		<string>20200619</string>
+		<string>20200620</string>
+		<string>20200621</string>
+		<string>20200622</string>
+		<string>20200623</string>
+		<string>20200624</string>
+		<string>20200625</string>
+		<string>20200626</string>
 	</array>
 	<key>DailyGai</key>
 	<dict>
@@ -7486,7 +7506,7 @@
 				<key>start</key>
 				<string>2020-05-10</string>
 				<key>end</key>
-				<string>2020-06-28</string>
+				<string>2020-06-26</string>
 			</dict>
 		</array>
 	</dict>
