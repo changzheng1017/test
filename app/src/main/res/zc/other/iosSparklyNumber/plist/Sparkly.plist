@@ -2232,6 +2232,61 @@
 				<string>Nature</string>
 			</dict>
 		</array>
+		<key>0608</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>nature_22</string>
+				<key>category</key>
+				<string>Nature</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_00</string>
+				<key>category</key>
+				<string>Animals</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beauty_17</string>
+				<key>category</key>
+				<string>Beauty</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>fashion_30</string>
+				<key>category</key>
+				<string>Fashion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>fashion_26</string>
+				<key>category</key>
+				<string>Fashion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>nature_19</string>
+				<key>category</key>
+				<string>Nature</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_01</string>
+				<key>category</key>
+				<string>Animals</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+		</array>
 	</dict>
 </dict>
 </plist>
