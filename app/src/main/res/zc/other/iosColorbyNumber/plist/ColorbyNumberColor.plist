@@ -13115,6 +13115,74 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>anime5_22</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime5_23</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime5_24</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime5_25</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime6_00</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime6_01</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime6_02</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime6_03</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>GlitterPaintting1</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1508864104</string>
