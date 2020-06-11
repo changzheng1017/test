@@ -1950,6 +1950,42 @@
 			<key>category</key>
 			<string>Nature</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_56</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_54</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food_40</string>
+			<key>category</key>
+			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_55</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_53</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
