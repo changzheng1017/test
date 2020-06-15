@@ -2395,6 +2395,55 @@
 				<string>yes</string>
 			</dict>
 		</array>
+		<key>0615</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>living_16</string>
+				<key>category</key>
+				<string>Living</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>nature_04</string>
+				<key>category</key>
+				<string>Nature</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_04</string>
+				<key>category</key>
+				<string>Animals</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>nature_02</string>
+				<key>category</key>
+				<string>Nature</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beauty_01</string>
+				<key>category</key>
+				<string>Beauty</string>
+				<key>store</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>food_12</string>
+				<key>category</key>
+				<string>Food</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>fashion_13</string>
+				<key>category</key>
+				<string>Fashion</string>
+			</dict>
+		</array>
 	</dict>
 </dict>
 </plist>
