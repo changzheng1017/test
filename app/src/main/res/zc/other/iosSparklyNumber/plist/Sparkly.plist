@@ -2022,6 +2022,42 @@
 			<key>category</key>
 			<string>Nature</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_61</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_60</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>food_41</string>
+			<key>category</key>
+			<string>Food</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_59</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_57</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
