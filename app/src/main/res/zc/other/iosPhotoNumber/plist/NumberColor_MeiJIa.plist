@@ -6,22 +6,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>anime7_04</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime7_05</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime7_06</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime7_07</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime7_08</string>
 		</dict>
 		<dict>
@@ -49,42 +33,6 @@
 	</array>
 	<key>b_CuteAnime</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_04</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_05</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_06</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_08</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_09</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_10</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_13</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_14</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cuteAnime7_15</string>
-		</dict>
 		<dict>
 			<key>name</key>
 			<string>cuteAnime7_16</string>
