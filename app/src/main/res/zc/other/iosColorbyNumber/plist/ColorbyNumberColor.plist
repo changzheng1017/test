@@ -13353,6 +13353,40 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>travel1_52</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animalsA_52</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animalsA_53</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>flowerA_87</string>
+			<key>category</key>
+			<string>Florals</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>LinePuzzle</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
