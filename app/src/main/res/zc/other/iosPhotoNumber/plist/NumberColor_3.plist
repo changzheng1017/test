@@ -7882,6 +7882,14 @@
 		<string>20200628</string>
 		<string>20200629</string>
 		<string>20200630</string>
+		<string>20200701</string>
+		<string>20200702</string>
+		<string>20200703</string>
+		<string>20200704</string>
+		<string>20200705</string>
+		<string>20200706</string>
+		<string>20200707</string>
+		<string>20200708</string>
 	</array>
 	<key>DailyGai</key>
 	<dict>
@@ -7912,7 +7920,7 @@
 				<key>start</key>
 				<string>2020-05-10</string>
 				<key>end</key>
-				<string>2020-06-30</string>
+				<string>2020-07-08</string>
 			</dict>
 		</array>
 	</dict>
