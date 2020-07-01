@@ -2166,6 +2166,42 @@
 			<key>category</key>
 			<string>Fashion</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_70</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_69</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_71</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_72</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_73</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
@@ -2688,6 +2724,55 @@
 				<string>food_35</string>
 				<key>category</key>
 				<string>Food</string>
+			</dict>
+		</array>
+		<key>0706</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>beauty_16</string>
+				<key>category</key>
+				<string>Beauty</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>fashion_42</string>
+				<key>category</key>
+				<string>Fashion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beauty_38</string>
+				<key>category</key>
+				<string>Beauty</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_52</string>
+				<key>category</key>
+				<string>Animals</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>fashion_40</string>
+				<key>category</key>
+				<string>Fashion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_31</string>
+				<key>category</key>
+				<string>Animals</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>living_29</string>
+				<key>category</key>
+				<string>Living</string>
 			</dict>
 		</array>
 	</dict>
