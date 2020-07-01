@@ -3,34 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>a_Anime</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>anime7_08</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime7_09</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime7_10</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime7_11</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime7_12</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LinePuzzle</string>
-			<key>url</key>
-			<string>itms-apps://itunes.apple.com/app/id1451386883</string>
-		</dict>
-	</array>
+	<array/>
 	<key>b_CuteAnime</key>
 	<array>
 		<dict>
