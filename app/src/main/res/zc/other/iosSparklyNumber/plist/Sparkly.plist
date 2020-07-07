@@ -2238,6 +2238,42 @@
 			<key>category</key>
 			<string>Living</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_77</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_78</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_79</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>living_40</string>
+			<key>category</key>
+			<string>Living</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_61</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
