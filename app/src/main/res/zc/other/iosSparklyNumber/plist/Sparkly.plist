@@ -2274,6 +2274,42 @@
 			<key>category</key>
 			<string>Nature</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_80</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_81</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashion_47</string>
+			<key>category</key>
+			<string>Fashion</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashion_48</string>
+			<key>category</key>
+			<string>Fashion</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_62</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
