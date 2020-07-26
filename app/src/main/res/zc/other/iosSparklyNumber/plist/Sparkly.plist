@@ -2418,6 +2418,42 @@
 			<key>category</key>
 			<string>Living</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>beauty_47</string>
+			<key>category</key>
+			<string>Beauty</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_92</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_67</string>
+			<key>category</key>
+			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_66</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_91</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
