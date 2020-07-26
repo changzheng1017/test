@@ -3127,6 +3127,57 @@
 				<string>Animals</string>
 			</dict>
 		</array>
+		<key>0727</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>living_16</string>
+				<key>category</key>
+				<string>Living</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>food_08</string>
+				<key>category</key>
+				<string>Food</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_48</string>
+				<key>category</key>
+				<string>Animals</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_21</string>
+				<key>category</key>
+				<string>Animals</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_33</string>
+				<key>category</key>
+				<string>Animals</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beauty_13</string>
+				<key>category</key>
+				<string>Beauty</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beauty_24</string>
+				<key>category</key>
+				<string>Beauty</string>
+			</dict>
+		</array>
 	</dict>
 </dict>
 </plist>
