@@ -8272,6 +8272,32 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>cuteAnime8_25</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime8_26</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime8_27</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime8_28</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>GlitterPaintting</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1508864104</string>
