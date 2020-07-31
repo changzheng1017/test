@@ -2454,6 +2454,42 @@
 			<key>category</key>
 			<string>Animals</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_69</string>
+			<key>category</key>
+			<string>Nature</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_68</string>
+			<key>category</key>
+			<string>Nature</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>beauty_49</string>
+			<key>category</key>
+			<string>Beauty</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>beauty_48</string>
+			<key>category</key>
+			<string>Beauty</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_93</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
@@ -3176,6 +3212,59 @@
 				<string>beauty_24</string>
 				<key>category</key>
 				<string>Beauty</string>
+			</dict>
+		</array>
+		<key>0803</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>fashion_45</string>
+				<key>category</key>
+				<string>Fashion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_73</string>
+				<key>category</key>
+				<string>Animals</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_71</string>
+				<key>category</key>
+				<string>Animals</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beauty_44</string>
+				<key>category</key>
+				<string>Beauty</string>
+				<key>store</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>nature_58</string>
+				<key>category</key>
+				<string>Nature</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>nature_57</string>
+				<key>category</key>
+				<string>Nature</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>food_41</string>
+				<key>category</key>
+				<string>Food</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 		</array>
 	</dict>
