@@ -8486,6 +8486,36 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>anime7_37</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_38</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes1_101</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes1_102</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>GlitterPaintting</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1508864104</string>
