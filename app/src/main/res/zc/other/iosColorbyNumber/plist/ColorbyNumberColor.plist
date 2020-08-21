@@ -14337,6 +14337,40 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime8_30</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime8_31</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime8_32</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cuteAnime8_29</string>
+			<key>category</key>
+			<string>CuteAnime</string>
+			<key>model</key>
+			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
