@@ -2598,6 +2598,42 @@
 			<key>category</key>
 			<string>Nature</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_100</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashion_50</string>
+			<key>category</key>
+			<string>Fashion</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashion_51</string>
+			<key>category</key>
+			<string>Fashion</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animal_101</string>
+			<key>category</key>
+			<string>Animals</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>nature_74</string>
+			<key>category</key>
+			<string>Nature</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
@@ -3473,6 +3509,57 @@
 				<string>fashion_13</string>
 				<key>category</key>
 				<string>Fashion</string>
+			</dict>
+		</array>
+		<key>0524</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>nature_13</string>
+				<key>category</key>
+				<string>Nature</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>food_14</string>
+				<key>category</key>
+				<string>Food</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>living_08</string>
+				<key>category</key>
+				<string>Living</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_07</string>
+				<key>category</key>
+				<string>Animals</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>living_23</string>
+				<key>category</key>
+				<string>Living</string>
+				<key>ads</key>
+				<string>yes</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>fashion_03</string>
+				<key>category</key>
+				<string>Fashion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>animal_13</string>
+				<key>category</key>
+				<string>Animals</string>
 			</dict>
 		</array>
 	</dict>
