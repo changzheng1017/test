@@ -14405,6 +14405,40 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_39</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_40</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_41</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_42</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
