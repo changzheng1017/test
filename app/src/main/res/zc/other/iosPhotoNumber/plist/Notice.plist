@@ -18,6 +18,20 @@
 			<key>FbBool</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>text</key>
+			<string>BONUS</string>
+			<key>textDeail</key>
+			<string>Like and Join Facebook for bonus images</string>
+			<key>webUrl</key>
+			<string>https://www.facebook.com/PaintbyNumberApp</string>
+			<key>url</key>
+			<string>fb://profile/101818514633430</string>
+			<key>image</key>
+			<string>Bonus_06</string>
+			<key>FbBool</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>rate</key>
 	<dict>
