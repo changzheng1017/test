@@ -14509,16 +14509,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>travel1_93</string>
-			<key>category</key>
-			<string>Travel</string>
-			<key>model</key>
-			<string>oil</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>flowerA_88</string>
 			<key>category</key>
 			<string>Florals</string>
