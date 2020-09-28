@@ -376,11 +376,11 @@
 
 
 
-,{"appurl":"","ads":"no","image":"girls_179","categoryName":"anime1"}
+,{"appurl":"","ads":"yes","image":"girls_179","categoryName":"anime1"}
 
 
 
 
-,{"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","ads":"yes","image":"watercolor","categoryName":"App"}
+,{"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","no":"yes","image":"watercolor","categoryName":"App"}
 
 ]}
