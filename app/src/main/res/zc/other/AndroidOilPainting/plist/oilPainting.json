@@ -756,7 +756,7 @@
     {"name":"landscapes1_111","category":"Landscapes","url":"","model":"oil","ads":"no"},
     {"name":"vehicles1_27","category":"Vehicles","url":"","model":"oil","ads":"yes"},
 
-    ,{"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","ads":"no","image":"watercolor","categoryName":"App"}
+    {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","ads":"no","image":"watercolor","categoryName":"App"}
 
   ]}
 
