@@ -29,5 +29,5 @@
 
 
 {"appurl":"","ads":"no","store":"no","model":"water","image":"landscapes_water_1","categoryName":"Landscapes"},
-    {"image":"food1_00","categoryName":"FoodDrink","appurl":"","model":"line","ads":"no"}
+    {"image":"food1_00","store":"no","categoryName":"FoodDrink","appurl":"","model":"line","ads":"no"}
   ]}
