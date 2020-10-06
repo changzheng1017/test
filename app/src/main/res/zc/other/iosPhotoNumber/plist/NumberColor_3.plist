@@ -9062,6 +9062,40 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>landscapes1_112</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>vehicles1_28</string>
+			<key>category</key>
+			<string>Vehicles</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ocean1_19</string>
+			<key>category</key>
+			<string>Ocean</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ocean1_20</string>
+			<key>category</key>
+			<string>Ocean</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>GlitterPaintting</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1508864104</string>
