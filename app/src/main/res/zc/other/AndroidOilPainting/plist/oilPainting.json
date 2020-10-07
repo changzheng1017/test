@@ -395,7 +395,6 @@
     {"image":"travel1_22","categoryName":"Travel","appurl":"","model":"oil","ads":"no"},
     {"image":"food_98","categoryName":"FoodDrink","appurl":"","model":"line","ads":"no"},
     {"image":"food_99","categoryName":"FoodDrink","appurl":"","model":"line","ads":"yes"},
-    {"image":"food_100","categoryName":"FoodDrink","appurl":"","model":"line","ads":"no"},
     {"image":"flowerA_65","categoryName":"Flower","appurl":"","model":"oil","ads":"yes"},
     {"image":"flowerA_66","categoryName":"Flower","appurl":"","model":"oil","ads":"no"},
     {"image":"flowerA_67","categoryName":"Flower","appurl":"","model":"oil","ads":"no"},
@@ -408,9 +407,7 @@
     {"image":"travel1_24","categoryName":"Travel","appurl":"","model":"oil","ads":"no"},
     {"image":"travel1_25","categoryName":"Travel","appurl":"","model":"oil","ads":"no"},
     {"image":"travel1_26","categoryName":"Travel","appurl":"","model":"oil","ads":"yes"},
-    {"image":"food_101","categoryName":"FoodDrink","appurl":"","model":"line","ads":"no"},
-    {"image":"food_102","categoryName":"FoodDrink","appurl":"","model":"line","ads":"no"},
-    {"image":"food_103","categoryName":"FoodDrink","appurl":"","model":"line","ads":"no"},
+
     {"image":"stillLife1_15","categoryName":"SlowLife","appurl":"","model":"oil","ads":"no"},
     {"image":"stillLife1_16","categoryName":"SlowLife","appurl":"","model":"oil","ads":"no"},
     {"image":"ocean1_12","categoryName":"Ocean","appurl":"","model":"oil","ads":"yes"},
