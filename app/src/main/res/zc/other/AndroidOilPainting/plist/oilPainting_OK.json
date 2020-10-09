@@ -709,7 +709,7 @@
     {"image":"vehicles1_27","categoryName":"Vehicles","appurl":"","model":"oil","ads":"yes"},
 
 
-    {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"oil","ads":"no","image":"watercolor","categoryName":"App"}
+    {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","ads":"no","image":"watercolor","categoryName":"App"}
 
   ]}
 
