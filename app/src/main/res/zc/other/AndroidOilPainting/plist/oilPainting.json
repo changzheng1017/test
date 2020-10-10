@@ -1147,11 +1147,18 @@
 
 
     {"image":"animalsA_61","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
-    {"image":"animalsA_62","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"yes"},
+    {"image":"animalsA_62","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+
     {"image":"animalsA_63","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
     {"image":"landscapes1_110","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
     {"image":"landscapes1_111","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
     {"image":"vehicles1_27","categoryName":"Vehicles","appurl":"","model":"oil","store":"no","ads":"yes"},
+
+
+    {"image":"landscapes1_112","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"vehicles1_28","categoryName":"Vehicles","appurl":"","model":"oil","store":"yes","ads":"no"},
+    {"image":"ocean1_19","categoryName":"Ocean","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"ocean1_20","categoryName":"Ocean","appurl":"","model":"oil","store":"no","ads":"no"},
 
 
     {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"}
