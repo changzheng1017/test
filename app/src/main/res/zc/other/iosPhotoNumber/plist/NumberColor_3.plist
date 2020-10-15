@@ -9130,6 +9130,40 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>holiday1_25</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_26</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_27</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_28</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>GlitterPaintting</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1508864104</string>

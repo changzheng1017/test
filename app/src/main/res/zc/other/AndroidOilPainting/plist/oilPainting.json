@@ -1165,10 +1165,14 @@
     {"image":"vehicles1_29","categoryName":"Vehicles","appurl":"","model":"oil","store":"no","ads":"no"},
     {"image":"flowerA_92","categoryName":"Flower","appurl":"","model":"oil","store":"no","ads":"no"},
     {"image":"animalsA_64","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
-    {"image":"animalsA_65","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"yes"}
+    {"image":"animalsA_65","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"yes"},
 
 
 
+    {"image":"holiday1_25","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"holiday1_26","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"holiday1_27","categoryName":"Holiday","appurl":"","model":"oil","store":"yes","ads":"no"},
+    {"image":"holiday1_28","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"}
 
   ]}
 
