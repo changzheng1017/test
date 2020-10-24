@@ -42,6 +42,6 @@
 	<key>clearCache</key>
 	<string>202019</string>
 	<key>ADSBOOL</key>
-	<string>yes</string>
+	<string>no</string>
 </dict>
 </plist>
