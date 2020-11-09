@@ -1203,9 +1203,13 @@
     {"image":"landscapes1_113","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
     {"image":"landscapes1_114","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
     {"image":"flowerA_93","categoryName":"Flower","appurl":"","model":"oil","store":"no","ads":"yes"},
-    {"image":"ocean1_21","categoryName":"Ocean","appurl":"","model":"oil","store":"no","ads":"no"}
+    {"image":"ocean1_21","categoryName":"Ocean","appurl":"","model":"oil","store":"no","ads":"no"},
 
 
+    {"image":"animalsA_69","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"animalsA_70","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"travel1_112","categoryName":"Travel","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"travel1_113","categoryName":"Travel","appurl":"","model":"oil","store":"yes","ads":"no"}
 
 
   ]}
