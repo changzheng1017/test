@@ -15255,6 +15255,74 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_51</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_52</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_53</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_54</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>model</key>
+			<string>line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animalsA_71</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animalsA_72</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_119</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_120</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

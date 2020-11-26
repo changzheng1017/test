@@ -1221,8 +1221,12 @@
     {"image":"landscapes1_115","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
     {"image":"landscapes1_116","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
     {"image":"travel1_118","categoryName":"Travel","appurl":"","model":"oil","store":"yes","ads":"no"},
-    {"image":"vehicles1_31","categoryName":"Vehicles","appurl":"","model":"oil","store":"no","ads":"no"}
+    {"image":"vehicles1_31","categoryName":"Vehicles","appurl":"","model":"oil","store":"no","ads":"no"},
 
 
+    {"image":"animalsA_71","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"animalsA_72","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"travel1_119","categoryName":"Travel","appurl":"","model":"oil","store":"no","ads":"yes"},
+    {"image":"travel1_120","categoryName":"Travel","appurl":"","model":"oil","store":"no","ads":"no"}
   ]}
 
