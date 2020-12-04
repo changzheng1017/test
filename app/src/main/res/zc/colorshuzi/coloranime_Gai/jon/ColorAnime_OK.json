@@ -513,6 +513,10 @@
   ,{"appurl":"","ads":"no","image":"cute_78","categoryName":"Cute"}
 
 
+  , {"appurl":"","ads":"no","image":"lifestyle_26","categoryName":"Lifestyle"}
+  ,{"appurl":"","ads":"yes","image":"lifestyle_27","categoryName":"Lifestyle"}
+  ,{"appurl":"","ads":"no","image":"girls_200","categoryName":"Girls"}
+  ,{"appurl":"","ads":"no","image":"girls_201","categoryName":"Girls"}
 
 
   ,{"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","ads":"no","image":"watercolor","categoryName":"App"}
