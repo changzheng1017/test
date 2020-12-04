@@ -9530,6 +9530,40 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>animalsA_73</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>flowerA_94</string>
+			<key>category</key>
+			<string>Flower</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_121</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_122</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>GlitterPaintting</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1508864104</string>
