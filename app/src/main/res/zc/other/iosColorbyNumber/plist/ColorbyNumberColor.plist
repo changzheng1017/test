@@ -15561,6 +15561,56 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_45</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_46</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_47</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_48</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_49</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_50</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
