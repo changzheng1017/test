@@ -1,7 +1,13 @@
 {"category":[
 
-  {"appurl":"https://play.google.com/store/apps/details?id=com.anime.color.by.number","ads":"yes","image":"ColorAnime1"},
-  {"appurl":"https://play.google.com/store/apps/details?id=com.coloringbynumber.anime.glitter.color.by.number.adult.coloring.book","ads":"yes","image":"GlitterAnime"},
+  {"appurl":"https://play.google.com/store/apps/details?id=anime.color.by.number","ads":"yes","image":"AnimeAds_An"},
+  {"appurl":"https://play.google.com/store/apps/details?id=oil.painting.color.by.number","ads":"yes","image":"oilcolor"},
+
+
+
+
+
+
 
 
   {"appurl":"","ads":"no","image":"dress0"},
