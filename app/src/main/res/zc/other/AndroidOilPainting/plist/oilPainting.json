@@ -1333,6 +1333,11 @@
     {"image":"travel1_138","categoryName":"Travel","appurl":"","model":"oil","store":"no","ads":"yes"},
 
 
+    {"image":"flowerA_100","categoryName":"Flower","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"flowerA_101","categoryName":"Flower","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"animalsA_83","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"animalsA_84","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"yes"},
+
     {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"},
     {"appurl":"https://play.google.com/store/apps/details?id=anime.color.by.number","model":"","store":"no","ads":"no","image":"AnimeAds_An","categoryName":"App"}
   ]}
