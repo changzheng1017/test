@@ -10158,6 +10158,40 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>landscapes1_131</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes1_132</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>people1_11</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>people1_12</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>watercolor</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1515826278</string>
