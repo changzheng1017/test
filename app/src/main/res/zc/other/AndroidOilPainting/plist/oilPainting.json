@@ -1364,6 +1364,11 @@
     {"image":"people1_12","categoryName":"People","appurl":"","model":"oil","store":"no","ads":"no"},
 
 
+    {"image":"animalsA_87","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"animalsA_88","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"stillLife1_23","categoryName":"SlowLife","appurl":"","model":"oil","store":"yes","ads":"no"},
+    {"image":"stillLife1_24","categoryName":"SlowLife","appurl":"","model":"oil","store":"no","ads":"no"},
+
 
     {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"},
     {"appurl":"https://play.google.com/store/apps/details?id=anime.color.by.number","model":"","store":"no","ads":"no","image":"AnimeAds_An","categoryName":"App"}
