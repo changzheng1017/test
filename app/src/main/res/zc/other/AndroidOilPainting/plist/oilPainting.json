@@ -1370,6 +1370,17 @@
     {"image":"stillLife1_24","categoryName":"SlowLife","appurl":"","model":"oil","store":"no","ads":"no"},
 
 
+
+
+    {"image":"flowerA_104","categoryName":"Flower","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"flowerA_105","categoryName":"Flower","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"animalsA_89","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"yes"},
+    {"image":"animalsA_90","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+
+
+
+
+
     {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"},
     {"appurl":"https://play.google.com/store/apps/details?id=anime.color.by.number","model":"","store":"no","ads":"no","image":"AnimeAds_An","categoryName":"App"}
   ]}
