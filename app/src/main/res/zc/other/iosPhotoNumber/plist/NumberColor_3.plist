@@ -10328,6 +10328,40 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>stillLife1_25</string>
+			<key>category</key>
+			<string>SlowLife</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>stillLife1_26</string>
+			<key>category</key>
+			<string>SlowLife</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>stillLife1_27</string>
+			<key>category</key>
+			<string>SlowLife</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>people1_13</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>watercolor</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1515826278</string>

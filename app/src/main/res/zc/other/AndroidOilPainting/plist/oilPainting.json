@@ -1393,6 +1393,12 @@
     {"image":"travel1_148","categoryName":"Travel","appurl":"","model":"oil","store":"no","ads":"no"},
 
 
+    {"image":"stillLife1_25","categoryName":"SlowLife","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"stillLife1_26","categoryName":"SlowLife","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"stillLife1_27","categoryName":"SlowLife","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"people1_13","categoryName":"People","appurl":"","model":"oil","store":"yes","ads":"no"},
+
+
     {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"},
     {"appurl":"https://play.google.com/store/apps/details?id=anime.color.by.number","model":"","store":"no","ads":"no","image":"AnimeAds_An","categoryName":"App"}
   ]}
