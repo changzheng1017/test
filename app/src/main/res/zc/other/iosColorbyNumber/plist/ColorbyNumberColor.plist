@@ -16699,6 +16699,18 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>AnimeAds</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1544594019</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>puzzleArt</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1567525567</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
