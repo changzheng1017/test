@@ -2732,7 +2732,7 @@
 	</array>
 	<key>Weekly</key>
 	<dict>
-		<key>0427</key>
+		<key>0614</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -2783,7 +2783,7 @@
 				<string>Living</string>
 			</dict>
 		</array>
-		<key>0504</key>
+		<key>0628</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -2832,7 +2832,7 @@
 				<string>Fashion</string>
 			</dict>
 		</array>
-		<key>0511</key>
+		<key>0705</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -2883,7 +2883,7 @@
 				<string>Food</string>
 			</dict>
 		</array>
-		<key>0518</key>
+		<key>0712</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -2934,7 +2934,7 @@
 				<string>Animals</string>
 			</dict>
 		</array>
-		<key>0525</key>
+		<key>0719</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -2987,7 +2987,7 @@
 				<string>yes</string>
 			</dict>
 		</array>
-		<key>0601</key>
+		<key>0726</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3038,7 +3038,7 @@
 				<string>Nature</string>
 			</dict>
 		</array>
-		<key>0608</key>
+		<key>0802</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3093,7 +3093,7 @@
 				<string>yes</string>
 			</dict>
 		</array>
-		<key>0615</key>
+		<key>0809</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3142,7 +3142,7 @@
 				<string>Fashion</string>
 			</dict>
 		</array>
-		<key>0622</key>
+		<key>0816</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3193,7 +3193,7 @@
 				<string>Food</string>
 			</dict>
 		</array>
-		<key>0629</key>
+		<key>0823</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3244,7 +3244,7 @@
 				<string>Food</string>
 			</dict>
 		</array>
-		<key>0706</key>
+		<key>0830</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3293,7 +3293,7 @@
 				<string>Living</string>
 			</dict>
 		</array>
-		<key>0713</key>
+		<key>0906</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3344,7 +3344,7 @@
 				<string>Beauty</string>
 			</dict>
 		</array>
-		<key>0720</key>
+		<key>0913</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3393,7 +3393,7 @@
 				<string>Animals</string>
 			</dict>
 		</array>
-		<key>0727</key>
+		<key>0920</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3444,7 +3444,7 @@
 				<string>Beauty</string>
 			</dict>
 		</array>
-		<key>0803</key>
+		<key>0927</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3497,7 +3497,7 @@
 				<string>yes</string>
 			</dict>
 		</array>
-		<key>0810</key>
+		<key>1004</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3548,7 +3548,7 @@
 				<string>Living</string>
 			</dict>
 		</array>
-		<key>0817</key>
+		<key>1011</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3597,7 +3597,7 @@
 				<string>Fashion</string>
 			</dict>
 		</array>
-		<key>0824</key>
+		<key>1018</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3648,7 +3648,7 @@
 				<string>Animals</string>
 			</dict>
 		</array>
-		<key>0831</key>
+		<key>1025</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3697,7 +3697,7 @@
 				<string>Animals</string>
 			</dict>
 		</array>
-		<key>0907</key>
+		<key>1101</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3752,7 +3752,7 @@
 				<string>yes</string>
 			</dict>
 		</array>
-		<key>0914</key>
+		<key>1108</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3807,7 +3807,7 @@
 				<string>yes</string>
 			</dict>
 		</array>
-		<key>0921</key>
+		<key>1115</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3856,7 +3856,7 @@
 				<string>Living</string>
 			</dict>
 		</array>
-		<key>0928</key>
+		<key>1122</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3909,7 +3909,7 @@
 				<string>yes</string>
 			</dict>
 		</array>
-		<key>1019</key>
+		<key>1129</key>
 		<array>
 			<dict>
 				<key>name</key>
@@ -3962,7 +3962,7 @@
 				<string>yes</string>
 			</dict>
 		</array>
-		<key>1026</key>
+		<key>1206</key>
 		<array>
 			<dict>
 				<key>name</key>
