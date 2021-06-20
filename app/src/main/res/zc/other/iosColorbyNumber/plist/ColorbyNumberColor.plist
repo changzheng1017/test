@@ -16701,15 +16701,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>AnimeAds</string>
-			<key>url</key>
-			<string>itms-apps://itunes.apple.com/app/id1544594019</string>
+			<string>animalsA_103</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>puzzleArt</string>
-			<key>url</key>
-			<string>itms-apps://itunes.apple.com/app/id1567525567</string>
+			<string>animalsA_104</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_173</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_174</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
 		</dict>
 	</array>
 	<key>Category</key>
