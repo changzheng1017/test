@@ -2736,7 +2736,13 @@
 		<array>
 			<dict>
 				<key>name</key>
-				<string>nature_22</string>
+				<string>living_16</string>
+				<key>category</key>
+				<string>Living</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>nature_04</string>
 				<key>category</key>
 				<string>Nature</string>
 				<key>ads</key>
@@ -2744,43 +2750,35 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>animal_14</string>
+				<string>animal_04</string>
 				<key>category</key>
 				<string>Animals</string>
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>beauty_17</string>
-				<key>category</key>
-				<string>Beauty</string>
-				<key>ads</key>
-				<string>yes</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>fashion_30</string>
-				<key>category</key>
-				<string>Fashion</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>fashion_26</string>
-				<key>category</key>
-				<string>Fashion</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>nature_19</string>
+				<string>nature_02</string>
 				<key>category</key>
 				<string>Nature</string>
-				<key>ads</key>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beauty_01</string>
+				<key>category</key>
+				<string>Beauty</string>
+				<key>store</key>
 				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>living_16</string>
+				<string>food_12</string>
 				<key>category</key>
-				<string>Living</string>
+				<string>Food</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>fashion_13</string>
+				<key>category</key>
+				<string>Fashion</string>
 			</dict>
 		</array>
 		<key>0628</key>
