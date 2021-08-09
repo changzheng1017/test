@@ -10974,6 +10974,40 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>travel1_179</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_180</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animalsA_109</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animalsA_110</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>puzzleArt</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1567525567</string>
