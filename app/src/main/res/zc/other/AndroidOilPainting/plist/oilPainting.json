@@ -1528,6 +1528,21 @@
     {"image":"animalsA_110","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
 
 
+
+    {"image":"landscapes1_141","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"landscapes1_142","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"yes"},
+    {"image":"animalsA_111","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"animalsA_112","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+
+
+
+    {"image":"landscapes1_143","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"landscapes1_144","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"animalsA_113","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"animalsA_114","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"yes"},
+
+
+
     {"appurl":"https://play.google.com/store/apps/details?id=com.art.puzzle.jigsaw.coloring","model":"","store":"no","ads":"no","image":"artPuzzle","categoryName":"App"},
 
     {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"}
