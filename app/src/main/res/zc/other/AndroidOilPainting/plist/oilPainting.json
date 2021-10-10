@@ -1541,10 +1541,6 @@
     {"image":"animalsA_113","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
     {"image":"animalsA_114","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"yes"},
 
-
-
-    {"appurl":"https://play.google.com/store/apps/details?id=com.art.puzzle.jigsaw.coloring","model":"","store":"no","ads":"no","image":"artPuzzle","categoryName":"App"},
-
     {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"}
 
   ]}
