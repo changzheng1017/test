@@ -11076,6 +11076,66 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>anime7_55</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_56</string>
+			<key>category</key>
+			<string>Anime</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_57</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>anime7_58</string>
+			<key>category</key>
+			<string>Anime</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes1_145</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes1_146</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes1_147</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes1_148</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>puzzleArt</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1567525567</string>
