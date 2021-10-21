@@ -17041,15 +17041,49 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>travel1_181</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_182</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_183</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel1_184</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>puzzleArt</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1567525567</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>polyart</string>
+			<string>AnimeAds</string>
 			<key>url</key>
-			<string>itms-apps://itunes.apple.com/app/id1577328648</string>
+			<string>itms-apps://itunes.apple.com/app/id1544594019</string>
 		</dict>
 	</array>
 	<key>Category</key>
