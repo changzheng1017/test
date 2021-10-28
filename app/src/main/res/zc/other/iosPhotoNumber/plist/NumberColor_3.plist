@@ -11264,6 +11264,40 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>holiday1_54</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_53</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_52</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_51</string>
+			<key>category</key>
+			<string>Holiday</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>puzzleArt</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1567525567</string>

@@ -1571,6 +1571,14 @@
     {"image":"travel1_188","categoryName":"Travel","appurl":"","model":"oil","store":"no","ads":"no"},
 
 
+
+
+    {"image":"holiday1_54","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"holiday1_53","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"holiday1_52","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"yes"},
+    {"image":"holiday1_51","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+
+
     {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"}
 
   ]}
