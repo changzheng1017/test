@@ -17143,6 +17143,50 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>holiday1_55</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_56</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_57</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_58</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>holiday1_59</string>
+			<key>category</key>
+			<string>SpecialDates</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>puzzleArt</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1567525567</string>
