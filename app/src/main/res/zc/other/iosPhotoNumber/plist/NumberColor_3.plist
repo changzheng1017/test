@@ -11342,6 +11342,40 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>flowerA_116</string>
+			<key>category</key>
+			<string>Flower</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animalsA_115</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes1_153</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes1_154</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>puzzleArt</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1567525567</string>

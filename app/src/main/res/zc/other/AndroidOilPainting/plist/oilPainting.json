@@ -1585,6 +1585,13 @@
     {"image":"holiday1_58","categoryName":"Holiday","appurl":"","model":"oil","store":"yes","ads":"no"},
     {"image":"holiday1_59","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
 
+
+    {"image":"flowerA_116","categoryName":"Flower","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"animalsA_115","categoryName":"Animals","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"landscapes1_153","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"landscapes1_154","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"yes"},
+
+
     {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"}
 
   ]}
