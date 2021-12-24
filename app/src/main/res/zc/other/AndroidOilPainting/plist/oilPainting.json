@@ -1617,6 +1617,16 @@
     {"image":"landscapes1_160","categoryName":"Landscapes","appurl":"","model":"oil","store":"no","ads":"yes"},
 
 
+    {"image":"holiday1_60","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"holiday1_61","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"holiday1_62","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"yes"},
+    {"image":"holiday1_63","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"holiday1_64","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"holiday1_65","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+    {"image":"holiday1_66","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"yes"},
+    {"image":"holiday1_67","categoryName":"Holiday","appurl":"","model":"oil","store":"no","ads":"no"},
+
+
 
     {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"}
 
