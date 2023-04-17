@@ -1,0 +1,202 @@
+
+
+
+{
+
+"0-0":[
+  {"name": "puzzle_1"},
+  {"name": "puzzle_2"},
+  {"name": "puzzle_3"},
+  {"name": "puzzle_4"},
+  {"name": "puzzle_5"},
+  {"name": "puzzle_6"},
+  {"name": "puzzle_7"},
+  {"name": "puzzle_8"},
+  {"name": "puzzle_9"},
+  {"name": "puzzle_10"}
+
+],
+
+
+
+
+"1-1":[
+
+
+  {"name": "puzzle_11"},
+  {"name": "puzzle_12"},
+
+  {"name": "puzzle_13"},
+  {"name": "puzzle_14"},
+
+
+  {"name": "puzzle_15"},
+  {"name": "puzzle_16"},
+
+  {"name": "puzzle_17"},
+  {"name": "puzzle_18"},
+
+  {"name": "puzzle_19"},
+  {"name": "puzzle_20"}
+],
+
+
+
+
+
+"2-2":[
+
+
+  {"name": "puzzle_21"},
+  {"name": "puzzle_22"},
+
+
+  {"name": "puzzle_23"},
+  {"name": "puzzle_24"},
+
+  {"name": "puzzle_25"},
+  {"name": "puzzle_26"},
+
+  {"name": "puzzle_27"},
+  {"name": "puzzle_28"},
+
+  {"name": "puzzle_29"},
+  {"name": "puzzle_30"}
+
+  
+],
+
+"3-3":[
+
+
+  {"name": "puzzle_31"},
+  {"name": "puzzle_32"},
+
+  {"name": "puzzle_33"},
+  {"name": "puzzle_34"},
+
+
+  {"name": "puzzle_35"},
+  {"name": "puzzle_36"},
+
+  {"name": "puzzle_37"},
+  {"name": "puzzle_38"},
+
+  {"name": "puzzle_39"},
+  {"name": "puzzle_40"}
+],
+
+"4-4":[
+  {"name": "puzzle_41"},
+  {"name": "puzzle_42"},
+
+
+  {"name": "puzzle_43"},
+  {"name": "puzzle_44"},
+
+  {"name": "puzzle_45"},
+  {"name": "puzzle_46"},
+
+  {"name": "puzzle_47"},
+  {"name": "puzzle_48"},
+
+  {"name": "puzzle_49"},
+  {"name": "puzzle_50"}
+
+  
+],
+
+
+"5-5":[
+  {"name": "puzzle_51"},
+  {"name": "puzzle_52"},
+
+  {"name": "puzzle_53"},
+  {"name": "puzzle_54"},
+
+
+  {"name": "puzzle_55"},
+  {"name": "puzzle_56"},
+
+  {"name": "puzzle_57"},
+  {"name": "puzzle_58"},
+
+  {"name": "puzzle_59"},
+  {"name": "puzzle_60"}
+],
+
+
+"6-6":[
+  {"name": "puzzle_61"},
+  {"name": "puzzle_62"},
+
+  {"name": "puzzle_63"},
+  {"name": "puzzle_64"},
+
+
+  {"name": "puzzle_65"},
+  {"name": "puzzle_66"},
+
+  {"name": "puzzle_67"},
+  {"name": "puzzle_68"},
+
+  {"name": "puzzle_69"},
+  {"name": "puzzle_70"}
+],
+
+"7-7":[
+  {"name": "puzzle_71"},
+  {"name": "puzzle_72"},
+
+  {"name": "puzzle_73"},
+  {"name": "puzzle_74"},
+
+
+  {"name": "puzzle_75"},
+  {"name": "puzzle_76"},
+
+  {"name": "puzzle_77"},
+  {"name": "puzzle_78"},
+
+  {"name": "puzzle_79"},
+  {"name": "puzzle_80"}
+],
+
+"8-8":[
+  {"name": "puzzle_81"},
+  {"name": "puzzle_82"},
+
+  {"name": "puzzle_83"},
+  {"name": "puzzle_84"},
+
+
+  {"name": "puzzle_85"},
+  {"name": "puzzle_86"},
+
+  {"name": "puzzle_87"},
+  {"name": "puzzle_88"},
+
+  {"name": "puzzle_89"},
+  {"name": "puzzle_90"}
+],
+
+
+"9-9":[
+  {"name": "puzzle_91"},
+  {"name": "puzzle_92"},
+
+  {"name": "puzzle_93"},
+  {"name": "puzzle_94"},
+
+
+  {"name": "puzzle_95"},
+  {"name": "puzzle_96"},
+
+  {"name": "puzzle_97"},
+  {"name": "puzzle_98"},
+
+  {"name": "puzzle_99"},
+  {"name": "puzzle_100"}
+]
+
+}
